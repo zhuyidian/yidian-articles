@@ -16,6 +16,3 @@ YidianHub 文章站正式启用。
 3. **项目记录**：沉淀构建与维护过程中的想法和实践。
 
 主站用于快速抵达服务，文章站则专注于阅读与归档。
-
-- [返回 YidianHub 主站](https://yidianhub.com)
-- [进入 API 服务](https://api.yidianhub.com)
