@@ -1,6 +1,7 @@
 services:
   articles-site:
-    build: .
+    image: ghcr.io/zhuyidian/yidian-articles:main
+    pull_policy: always
     container_name: yidianhub-articles
     restart: unless-stopped
     networks:
