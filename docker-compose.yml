@@ -1,0 +1,7 @@
+services:
+  articles-site:
+    build: .
+    container_name: yidianhub-articles
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8081:8080"
