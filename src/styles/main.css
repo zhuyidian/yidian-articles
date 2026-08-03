@@ -131,6 +131,14 @@ h6 {
     @apply cursor-zoom-in
 }
 
+.custom-md img {
+    display: block;
+    max-width: 100%;
+    height: auto !important;
+    max-height: none !important;
+    object-fit: contain;
+}
+
 ::selection {
     background-color: var(--selection-bg)
 }
