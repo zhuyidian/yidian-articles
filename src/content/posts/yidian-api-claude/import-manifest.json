@@ -1,0 +1,133 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/Dyl8dVdY4ojccLxFlTGc0Kh9nhf",
+  "title": "一点API 使用教程(十五)：Claude 客户端配置教程",
+  "slug": "yidian-api-claude",
+  "published": "2026-08-16T15:51:21+08:00",
+  "importedAt": "2026-08-16T07:51:33.394Z",
+  "sourceStats": {
+    "blocks": 108,
+    "images": 23,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 23,
+    "markdownImageReferences": 23
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 138058,
+      "sha256": "8ce845ef6c5fa9b649f159f5be54da541f9e10876e5332c2aa6f50593e49b241"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 416221,
+      "sha256": "24069d76ad0dc2e3c3e298c6897e7f7dcdd27508971ae0f9dca725c5025a5634"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 289861,
+      "sha256": "a06a859c81c81fe75457bc7cfa447449d03c858191cddf2af4369ee29e595f7c"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 288216,
+      "sha256": "abdc601362701c45ed262b895bd7a74fa157ae0a6421ffab443f849b20982cb3"
+    },
+    {
+      "filename": "05.png",
+      "bytes": 259136,
+      "sha256": "cfa41a9d29bdd2048189cbbb706554c69bad308d883575b50a48eacc09587152"
+    },
+    {
+      "filename": "06.png",
+      "bytes": 260582,
+      "sha256": "0eff9330f2195ac5dc37d61b37053dbb6baa9ed83472c241bf07efb0804c2164"
+    },
+    {
+      "filename": "07.png",
+      "bytes": 187357,
+      "sha256": "f613a7f29cc5593b7130f09101e3fc1846e0a957d97d2f10f84d3e5e0ac7d658"
+    },
+    {
+      "filename": "08.png",
+      "bytes": 104505,
+      "sha256": "82efcf60c3e3ec712607717d89475d578c7299448696ac7294c2fd541d3c7577"
+    },
+    {
+      "filename": "09.png",
+      "bytes": 310820,
+      "sha256": "78d63164d2859b9e4ac3eeedd3c91bc81ac0f4297a43d1b860bec95fb407d08b"
+    },
+    {
+      "filename": "10.png",
+      "bytes": 234287,
+      "sha256": "faaba0e7a067270ac3092cd6cbcbcda1e7a3bb158d84d22aca5b1ff19316469d"
+    },
+    {
+      "filename": "11.png",
+      "bytes": 186497,
+      "sha256": "cabe2ccfed54b1b99726c2246295c9019b6ce5ab2cab406937b1c892f375cafc"
+    },
+    {
+      "filename": "12.png",
+      "bytes": 150380,
+      "sha256": "bc5570b166524e01fb5a29f0290adb066b8377fad8245b63389c06074e4b0716"
+    },
+    {
+      "filename": "13.png",
+      "bytes": 140561,
+      "sha256": "4a5b29eb5d92210520e406db539e72f56f7df0f769f32d7dd366fb6fe1609abd"
+    },
+    {
+      "filename": "14.png",
+      "bytes": 324320,
+      "sha256": "ae0a8789b03019a22e2246084109412d89f17c2a0a9d35d5699aa02513497da0"
+    },
+    {
+      "filename": "15.png",
+      "bytes": 134971,
+      "sha256": "911c730258171c78ade2e6199ddb75ed9d35806b8f9ae2d5ed75d247a9f9e966"
+    },
+    {
+      "filename": "16.png",
+      "bytes": 263864,
+      "sha256": "1cb4637c97bf40239f9d0ac59ec5c8f7f7cb7abf65393059fc49e44138655ddc"
+    },
+    {
+      "filename": "17.png",
+      "bytes": 159804,
+      "sha256": "82aa12a2907b6e7161ff43d5d0188a35ac2f1df03e12c2c81fd62db27be9795e"
+    },
+    {
+      "filename": "18.png",
+      "bytes": 120362,
+      "sha256": "ac076e4452301c545b078edef49b93e31d0ae78c9ae3317e5e715778c1d0ce2a"
+    },
+    {
+      "filename": "19.png",
+      "bytes": 188817,
+      "sha256": "816e5fc1cdb998cf00b185e89a3f894120f73a1fe8eb0f72e052d7625591f1d5"
+    },
+    {
+      "filename": "20.png",
+      "bytes": 261132,
+      "sha256": "b2cf6bb22474c51589a901756a92860ca69bcce1d0ead0259b467fcbec05905f"
+    },
+    {
+      "filename": "21.png",
+      "bytes": 100703,
+      "sha256": "384bff8d1cf7e5c0bc6cec79725dad914a6ef02b7dbc4c99405a7c24c5868a1b"
+    },
+    {
+      "filename": "22.png",
+      "bytes": 307276,
+      "sha256": "a0356c3c909a4de135b61407a5724ab5c9694d3aac66b7d8d8a3034164c6a22c"
+    },
+    {
+      "filename": "23.png",
+      "bytes": 342124,
+      "sha256": "f9233a5d447ea320d2e914beb3f9b279769dc7305d21835aff6067da6ba8522a"
+    }
+  ]
+}

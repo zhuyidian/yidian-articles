@@ -1,0 +1,43 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/CPGbdznOKosyP9x6n2DcVm5qnNe",
+  "title": "一点API 使用教程(十一)：作图软件 接入使用",
+  "slug": "yidian-api-image2",
+  "published": "2026-08-10",
+  "importedAt": "2026-08-10T12:58:20.991Z",
+  "sourceStats": {
+    "blocks": 35,
+    "images": 5,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 5,
+    "markdownImageReferences": 5
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 115310,
+      "sha256": "98344048afb330786c92d79c66ba19c92e3959eec6281506db4dfe0d46ffcba2"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 1556435,
+      "sha256": "e5febfc08be57f6b9070488e1b3e09fda9bb249e8834088bef4c9bc6bb3daa66"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 490261,
+      "sha256": "99758874553d6e908f27d37bc9bba0774d2fc989c844292fad52e84c348c18c5"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 99634,
+      "sha256": "2786cbdb6731cc109746174661ed5d45457cb54e75b1ae850849caed479000a0"
+    },
+    {
+      "filename": "05.png",
+      "bytes": 342298,
+      "sha256": "a3bdf86f22ca85ef11aeb7cfe7bcfd9c5292321ba7fcd3dedfa26491a6733fca"
+    }
+  ]
+}

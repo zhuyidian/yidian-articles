@@ -1,21 +1,138 @@
 ---
+import { Image } from "astro:assets";
+import { Icon } from "astro-icon/components";
 
 import { profileConfig } from "../config";
+import wechatQrCode from "../assets/images/footer/wechat-qrcode.webp";
+import wecomQrCode from "../assets/images/footer/wecom-qr.webp";
 import { url } from "../utils/url-utils";
 
-const currentYear = new Date().getFullYear();
+const qrContacts = [
+    {
+        label: "企业微信",
+        action: "点击添加企业微信",
+        ariaLabel: "查看企业微信二维码",
+        image: wecomQrCode,
+        alt: "企业微信二维码，扫码添加企业微信",
+    },
+    {
+        label: "微信公众号",
+        action: "点击关注公众号",
+        ariaLabel: "查看微信公众号二维码",
+        image: wechatQrCode,
+        alt: "微信公众号二维码，扫码关注微信公众号",
+    },
+];
 ---
 
-<!--<div class="border-t border-[var(&#45;&#45;primary)] mx-16 border-dashed py-8 max-w-[var(&#45;&#45;page-width)] flex flex-col items-center justify-center px-6">-->
-<div class="transition border-t border-black/10 dark:border-white/15 my-10 border-dashed mx-32"></div>
-<!--<div class="transition bg-[oklch(92%_0.01_var(&#45;&#45;hue))] dark:bg-black rounded-2xl py-8 mt-4 mb-8 flex flex-col items-center justify-center px-6">-->
-<div class="transition border-dashed border-[oklch(85%_0.01_var(--hue))] dark:border-white/15 rounded-2xl mb-12 flex flex-col items-center justify-center px-6">
-    <div class="transition text-50 text-sm text-center">
-        &copy; <span id="copyright-year">{currentYear}</span> {profileConfig.name}. All Rights Reserved. /
-        <a class="transition link text-[var(--primary)] font-medium" target="_blank" href={url('rss.xml')}>RSS</a> /
-        <a class="transition link text-[var(--primary)] font-medium" target="_blank" href={url('sitemap-index.xml')}>Sitemap</a><br>
-        Powered by
-        <a class="transition link text-[var(--primary)] font-medium" target="_blank" href="https://astro.build">Astro</a> &
-        <a class="transition link text-[var(--primary)] font-medium" target="_blank" href="https://github.com/saicaca/fuwari">Fuwari</a>
+<div class="transition border-t border-black/10 dark:border-white/15 my-8 border-dashed"></div>
+
+<footer
+    class="relative z-30 mb-12 min-h-[150px] overflow-visible rounded-[var(--radius-large)] border border-[var(--line-color)] bg-[var(--card-bg)] px-5 py-6 text-sm not-prose md:px-6 md:py-0"
+>
+    <div class="mx-auto grid min-h-[150px] w-full items-center gap-6 md:grid-cols-[auto_1fr_auto] md:gap-8">
+        <a class="flex items-center gap-3 self-center" href={url("/")} aria-label="YidianHub文章首页">
+            <img
+                src={url(profileConfig.avatar || "/yidianhub-mark.svg")}
+                alt="YidianHub文章 Logo"
+                width="52"
+                height="36"
+                class="h-9 w-[52px] rounded-[6px] object-cover"
+            />
+            <span class="flex flex-col">
+                <strong class="text-[15px] font-bold leading-[18px] text-[var(--deep-text)]">YidianHub文章</strong>
+                <small class="mt-[2px] whitespace-nowrap text-[11px] leading-[13px] text-black/55 dark:text-white/55">
+                    AI文章与实用资讯
+                </small>
+            </span>
+        </a>
+
+        <div class="min-w-0 text-[13px] leading-5 text-black/55 dark:text-white/55 md:px-2">
+            分享 AI 应用、工具教程与实践经验。
+        </div>
+
+        <div
+            class="flex min-h-[40px] flex-wrap items-center justify-center gap-x-4 gap-y-2 text-[12px] leading-4 md:min-h-0 md:justify-self-end md:gap-x-5 md:text-[13px]"
+            aria-label="联系与关注"
+            data-qr-widgets
+        >
+            {
+                qrContacts.map((contact) => (
+                    <div class="relative flex items-center gap-2 whitespace-nowrap" data-qr-widget>
+                        <span class="text-black/65 dark:text-white/65">{contact.label}</span>
+
+                        <div class="relative">
+                            <button
+                                type="button"
+                                class="grid size-7 place-items-center rounded-[8px] border border-black/20 bg-black/5 text-black/60 transition-colors hover:border-[var(--primary)] hover:text-[var(--primary)] dark:border-white/20 dark:bg-white/5 dark:text-white/65"
+                                data-qr-trigger
+                                aria-expanded="false"
+                                aria-label={contact.ariaLabel}
+                                title={contact.ariaLabel}
+                            >
+                                <Icon name="fa6-solid:qrcode" class="size-4" />
+                            </button>
+
+                            <div
+                                class="absolute bottom-[calc(100%+10px)] right-0 z-20 w-[204px] rounded-[8px] border border-black/15 bg-[var(--card-bg)] p-[10px] shadow-2xl dark:border-white/20"
+                                data-qr-card
+                                role="dialog"
+                                hidden
+                            >
+                                <Image src={contact.image} alt={contact.alt} widths={[204, 408]} sizes="204px" />
+                                <p class="m-0 pt-2 text-center text-[11px] leading-4 text-black/55 dark:text-white/55">{contact.action}</p>
+                            </div>
+                        </div>
+                    </div>
+                ))
+            }
+        </div>
     </div>
-</div>
+
+</footer>
+
+<script>
+    function closeAllQrCards() {
+        document.querySelectorAll<HTMLElement>("[data-qr-card]").forEach((card) => {
+            card.hidden = true;
+        });
+        document.querySelectorAll<HTMLButtonElement>("[data-qr-trigger]").forEach((trigger) => {
+            trigger.setAttribute("aria-expanded", "false");
+        });
+    }
+
+    function initializeQrWidgets() {
+        document.querySelectorAll<HTMLElement>("[data-qr-widgets]").forEach((container) => {
+            if (container.dataset.initialized === "true") return;
+            container.dataset.initialized = "true";
+
+            container.querySelectorAll<HTMLElement>("[data-qr-widget]").forEach((widget) => {
+                const trigger = widget.querySelector<HTMLButtonElement>("[data-qr-trigger]");
+                const card = widget.querySelector<HTMLElement>("[data-qr-card]");
+                if (!trigger || !card) return;
+
+                trigger.addEventListener("click", (event) => {
+                    event.stopPropagation();
+                    const opening = card.hidden;
+                    closeAllQrCards();
+                    card.hidden = !opening;
+                    trigger.setAttribute("aria-expanded", String(opening));
+                });
+            });
+        });
+
+        if (document.documentElement.dataset.qrFooterEvents === "true") return;
+        document.documentElement.dataset.qrFooterEvents = "true";
+        document.addEventListener("click", (event) => {
+            if (!(event.target instanceof Element) || !event.target.closest("[data-qr-widget]")) {
+                closeAllQrCards();
+            }
+        });
+        document.addEventListener("keydown", (event) => {
+            if (event.key === "Escape") closeAllQrCards();
+        });
+    }
+
+    initializeQrWidgets();
+    document.addEventListener("astro:page-load", initializeQrWidgets);
+</script>

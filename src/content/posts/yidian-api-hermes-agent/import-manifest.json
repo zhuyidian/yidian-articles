@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/WqjZdPfheovOrkx1clwcLlcKnsh",
+  "title": "一点API 使用教程(二十五)：Hermes Agent 基础配置指南",
+  "slug": "yidian-api-hermes-agent",
+  "published": "2026-08-16T16:27:54+08:00",
+  "importedAt": "2026-08-16T08:27:59.654Z",
+  "sourceStats": {
+    "blocks": 54,
+    "images": 9,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 9,
+    "markdownImageReferences": 9
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 282129,
+      "sha256": "184d8cee0afa383aa0900d7b269ee037f2ef0724cabbeeddbe39bde74121e90c"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 367545,
+      "sha256": "d08e668ad4657625ffba55ad6158ec191714546f1c6d8f96e8b7416526f2e9c0"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 224676,
+      "sha256": "d0b19eb0ff8003db7183c013fd0c66df04fc8dd52cda9568d7d4678708bc810a"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 34915,
+      "sha256": "15612addbe8740198cae8d51bc586263be9b8a9c73faeb7fe2e79044ec4c66f0"
+    },
+    {
+      "filename": "05.png",
+      "bytes": 1328869,
+      "sha256": "292ffcb85c179e1e231b8fa041dc4605ccbe7447375abead7a36e5555179c784"
+    },
+    {
+      "filename": "06.png",
+      "bytes": 375154,
+      "sha256": "8705bc7e5a32f56d6866b19a6292b48e30ea5d8f126cf5e2337a3b96945e027d"
+    },
+    {
+      "filename": "07.png",
+      "bytes": 249209,
+      "sha256": "464a2231eb20a0107ae8a8e1820b15c344c9e818a674d506bce2161e1462cc6f"
+    },
+    {
+      "filename": "08.png",
+      "bytes": 313728,
+      "sha256": "3dc32dd267c327f463143232d0c22a7679429626f457e5a140c5d83a80e387e9"
+    },
+    {
+      "filename": "09.png",
+      "bytes": 196807,
+      "sha256": "3a450755ce313c4ec5f8845b2e931a52e20f47ea1392ed5550ba176c2405f5d6"
+    }
+  ]
+}

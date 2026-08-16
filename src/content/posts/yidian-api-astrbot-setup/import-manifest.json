@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/XIfBdkMySolW7nxk6qScMVsAnrh",
+  "title": "一点API 使用教程(九)：AstrBot 接入使用",
+  "slug": "yidian-api-astrbot-setup",
+  "published": "2026-08-10",
+  "importedAt": "2026-08-10T12:47:08.961Z",
+  "sourceStats": {
+    "blocks": 48,
+    "images": 11,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 11,
+    "markdownImageReferences": 11
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 124625,
+      "sha256": "331771f9bc122ec1f0931b9a59b90f6472b8d7fa5d851d9888881673de1b08bf"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 89963,
+      "sha256": "379597d861e01eb91bb377705600413735d546dcdee09727eea572f00f0973cf"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 848800,
+      "sha256": "de747c2b1621f3400eb3bd54e72aed6a850feba769c89edc0121824018a80f27"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 1662997,
+      "sha256": "7a01c87d71ef2098b419883a6f35d44492c1a41509fef79997231fbd1f7619d0"
+    },
+    {
+      "filename": "05.png",
+      "bytes": 1192114,
+      "sha256": "f2c7d94c9de4cbc5a382687919eac3d61f7d0866f71ea6a5cda818cecf2fb3d1"
+    },
+    {
+      "filename": "06.png",
+      "bytes": 1558163,
+      "sha256": "71d2543a95789994ccb33be2da237bd5a44260014e3eab2d0faa3d0763ec1ab3"
+    },
+    {
+      "filename": "07.png",
+      "bytes": 715343,
+      "sha256": "1cfc127dd81722cb7efa0b9b2e5ab48ec37163232a8239ca1dc83249d95e7ec7"
+    },
+    {
+      "filename": "08.png",
+      "bytes": 731886,
+      "sha256": "983c8226651a9ec908e17135b081c87c28e83d469308ad32f1cb2537d2e772b1"
+    },
+    {
+      "filename": "09.png",
+      "bytes": 903779,
+      "sha256": "a486747defcdb81cc17f0c5a1a1bad5f69abb91ff90bd407e7b237d933067bf6"
+    },
+    {
+      "filename": "10.png",
+      "bytes": 909544,
+      "sha256": "12ad83acbabe807210add657218da20fab12ffa33d957d3ddc67353f0fa9b4e3"
+    },
+    {
+      "filename": "11.png",
+      "bytes": 341720,
+      "sha256": "5cb7bb795b9a68d0ca7dbbab61699a6a57e938f37e6da05f34bfd6262a4b64d8"
+    }
+  ]
+}

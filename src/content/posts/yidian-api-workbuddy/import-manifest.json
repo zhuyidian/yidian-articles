@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/XyfedGWDRopyNkxklVhcbo9Hnfh",
+  "title": "一点API 使用教程(二十七)：WorkBuddy 配置教程",
+  "slug": "yidian-api-workbuddy",
+  "published": "2026-08-16T16:31:50+08:00",
+  "importedAt": "2026-08-16T08:32:00.878Z",
+  "sourceStats": {
+    "blocks": 42,
+    "images": 13,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 13,
+    "markdownImageReferences": 13
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 1895285,
+      "sha256": "9583a64c8dec8ebf039dab07305b2076821f177d3f563c26bae311e3f4c9083d"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 333782,
+      "sha256": "bf04cc8a9b83d63b54ad26d31850410600219ae9b184212f6566541ece90b79b"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 115893,
+      "sha256": "59edf06dc7bc13d387dd4aa695be5c037595091ab68e19fa044ad852e83f4c0c"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 213372,
+      "sha256": "d4510ca8029d34b3206a598362cd23a8cbf7a224c3a29a87c7d185473690f0a4"
+    },
+    {
+      "filename": "05.png",
+      "bytes": 599684,
+      "sha256": "ae71751759ccc96f8d177cdde1fcacb81ad3be7481cac96b0fb42c8a3e6cc236"
+    },
+    {
+      "filename": "06.png",
+      "bytes": 363162,
+      "sha256": "e382114ccf472616c47a79f0f80b012cee0ff9d98237cf3e4bdcd65513e6a955"
+    },
+    {
+      "filename": "07.png",
+      "bytes": 1166153,
+      "sha256": "9ada279086c29d8d7d3bc00585382e24cb882b50b4eab495c7369809b0e04d56"
+    },
+    {
+      "filename": "08.png",
+      "bytes": 484394,
+      "sha256": "05fb84ac2ac11ac44b5a0f9d2867b8737e0b3bbd5e34903cc15885f2c336a972"
+    },
+    {
+      "filename": "09.png",
+      "bytes": 3437606,
+      "sha256": "61d16d01ddf191bca0f79437e83bfa22730ddf1b93bde49620b3ed2f3dddc665"
+    },
+    {
+      "filename": "10.png",
+      "bytes": 417585,
+      "sha256": "5fd234e494139d7cf68567c9eef222e0e1140b268ab8b55c6fbff0f4c9bfff34"
+    },
+    {
+      "filename": "11.png",
+      "bytes": 421614,
+      "sha256": "1f77c7823c59716e6de581db6531aadb951f146e401ccb3fcad91c8eda5c434c"
+    },
+    {
+      "filename": "12.png",
+      "bytes": 1538223,
+      "sha256": "bd68ed998276de710bcfa435f485ac2f52af3057f604d4069e55d703418b367c"
+    },
+    {
+      "filename": "13.png",
+      "bytes": 1122392,
+      "sha256": "540928e590922817f09fcca8d60018707de45331a0d5fe8641976e66b8bb620c"
+    }
+  ]
+}

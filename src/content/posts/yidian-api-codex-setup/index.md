@@ -3,7 +3,7 @@ title: 一点API 使用教程(二)：Codex接入使用
 published: 2026-08-04
 description: 从安装 Codex、配置一点API 到完成首次对话的使用教程。
 image: ./images/01.png
-tags: [一点API, Codex, API, 使用教程]
+tags: [codex]
 category: API 服务
 draft: false
 ---

@@ -1,0 +1,78 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/Vqcgd1EwjoqlsVxNW5ycI3hAnLY",
+  "title": "一点API 使用教程(五)：Open Code接入使用",
+  "slug": "yidian-api-open-code-setup",
+  "published": "2026-08-06",
+  "importedAt": "2026-08-06T08:59:47.724Z",
+  "sourceStats": {
+    "blocks": 94,
+    "images": 12,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 12,
+    "markdownImageReferences": 12
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 138933,
+      "sha256": "84e86d115c411cdc52829bb520e9accdf8fd9eda6af898191dc43d4d8f97a275"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 197011,
+      "sha256": "c00061d5fde3909e55f2d8702e1b76d45144266258cd6d03c98220b02f91408d"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 170629,
+      "sha256": "e8337d4f67c6d3afa1d2daae59ba49690cb7036a3728ca1b8a6012a433e6a315"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 151388,
+      "sha256": "ec5c4cf6d0c66008eed57db789d4352be219dbfce8875ffbe8e19941b53617ee"
+    },
+    {
+      "filename": "05.png",
+      "bytes": 411088,
+      "sha256": "396f442950220be181637605aef19381d3f6fe0a54315d8de4f7c8671f59ce0d"
+    },
+    {
+      "filename": "06.png",
+      "bytes": 72813,
+      "sha256": "fa23383e3305de8c6d0ad52dde9b93bc3282ebd5b0c290edaab27d8d9a12febf"
+    },
+    {
+      "filename": "07.png",
+      "bytes": 295066,
+      "sha256": "ea61bb30afb960e8290fc1af44e2f723c5e37e681132d2a16058f23d9a864185"
+    },
+    {
+      "filename": "08.png",
+      "bytes": 333867,
+      "sha256": "07efe3481244dd45c6597a6cf16d2e47af1ee65bf509c65a0760bc11d352d5b1"
+    },
+    {
+      "filename": "09.png",
+      "bytes": 246972,
+      "sha256": "63485cfcab7ff535e45ef656254ccd861f2adcd436ae1ad091efcf6543c88ebe"
+    },
+    {
+      "filename": "10.png",
+      "bytes": 134197,
+      "sha256": "a5b4f972eda9afe469866decb9bbf794eb4ddc4b0fbd787f80b240439e5eadda"
+    },
+    {
+      "filename": "11.png",
+      "bytes": 347919,
+      "sha256": "c992a0477711149e34c20074e8c096f3a60d5a0a0dfe94a5b98d927b53203039"
+    },
+    {
+      "filename": "12.png",
+      "bytes": 106203,
+      "sha256": "c4bb818c2321e4d808bf69f3b2d1308c1328773a3574527522b4f3bbc2538d61"
+    }
+  ]
+}

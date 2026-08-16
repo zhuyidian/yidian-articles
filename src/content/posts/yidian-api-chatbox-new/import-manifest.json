@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/FT87dlDqcoGPfixJsLnc370NnPe",
+  "title": "一点API 使用教程(十三)：Chatbox 教程",
+  "slug": "yidian-api-chatbox-new",
+  "published": "2026-08-16T05:48:51+08:00",
+  "importedAt": "2026-08-15T21:48:56.241Z",
+  "sourceStats": {
+    "blocks": 39,
+    "images": 9,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 9,
+    "markdownImageReferences": 9
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 330005,
+      "sha256": "4d93f4fe17476623c32954a3d70192f6f64dcb38d691537f1b2d68c880d7a8e0"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 338740,
+      "sha256": "bd9cb62df40b9ddd82d172ac5b55c05aa87487e2800ab8de581d230130d1c054"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 546056,
+      "sha256": "29f42891c23fa6d0ddaf041bad2ca3b61880ce1b410cda420aa69433d3fdee98"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 47827,
+      "sha256": "4892f18777ab5b6fb707788fc092d3c4f662cfcb65bfe925e1544b0b64c8f485"
+    },
+    {
+      "filename": "05.png",
+      "bytes": 489221,
+      "sha256": "aa1bbd5adaf07cd96f4171800672336e76d8cd6dc96eca307c08a8233efaee42"
+    },
+    {
+      "filename": "06.png",
+      "bytes": 334612,
+      "sha256": "f933ecee0cc67df887ede42adcc983cae005bbdf35d8be5ffded6f35b2db8d1e"
+    },
+    {
+      "filename": "07.png",
+      "bytes": 544467,
+      "sha256": "86afe30a34d50790200e6db6187960de215ffecd2dc86c9bfa8c595ffefc48e2"
+    },
+    {
+      "filename": "08.png",
+      "bytes": 248771,
+      "sha256": "4ad2008d1878e94040eee389a759e98ced5dca8064f8556e2289de0d9d26d5bb"
+    },
+    {
+      "filename": "09.png",
+      "bytes": 227651,
+      "sha256": "95773c9a8c494d9e86ca19b183db85778e7439f7723096fb247db0adeb2accf2"
+    }
+  ]
+}

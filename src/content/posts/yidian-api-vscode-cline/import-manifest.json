@@ -1,0 +1,48 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/WIYbdvgLyoIiFZxHibkcNSvpnub",
+  "title": "一点API 使用教程(二十)：VS Code 配置 Cline 插件",
+  "slug": "yidian-api-vscode-cline",
+  "published": "2026-08-16T16:15:21+08:00",
+  "importedAt": "2026-08-16T08:15:25.425Z",
+  "sourceStats": {
+    "blocks": 20,
+    "images": 6,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 6,
+    "markdownImageReferences": 6
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 380774,
+      "sha256": "5ef4b230289fca483709160e375166a2811af641cbbab164689a6d842bc21e7e"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 298391,
+      "sha256": "806569254501a6bacb06f0110d6d3d6c2ed8080593372a3caa02dec352b3015f"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 502505,
+      "sha256": "8aea4f454390f0ffeb4d84c4fab07052dd28af596b0e40c521131aec86de891d"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 478757,
+      "sha256": "28406397cc1d21fadb183a04c2bb2fb812cfa31df12afec74dbe1cef0bbe5c02"
+    },
+    {
+      "filename": "05.png",
+      "bytes": 220512,
+      "sha256": "77cf1893d352054c02c8d1e4371a65571f1c0d85efeb1297cbbfa03c9086e734"
+    },
+    {
+      "filename": "06.png",
+      "bytes": 291314,
+      "sha256": "f0ecadc483437bad3754727ca71f0f225521aed04d3d4209c3a6026021802204"
+    }
+  ]
+}

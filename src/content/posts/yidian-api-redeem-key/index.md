@@ -3,7 +3,7 @@ title: 一点API 使用教程(一)：兑换key
 published: 2026-08-03
 description: 从注册登录、兑换额度到创建令牌，并给出 Codex 接入一点API 的配置示例。
 image: ./images/01-homepage.png
-tags: [一点API, API, 使用教程]
+tags: [关于key]
 category: API 服务
 draft: false
 ---

@@ -1,0 +1,133 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/QYtWd4HYhoChKSx6fpYcnKJynWh",
+  "title": "一点API 使用教程(十七)：Cursor 编辑器配置 Claude Code 插件",
+  "slug": "yidian-api-cursor-claude-code",
+  "published": "2026-08-16T16:04:19+08:00",
+  "importedAt": "2026-08-16T08:04:30.987Z",
+  "sourceStats": {
+    "blocks": 88,
+    "images": 23,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 23,
+    "markdownImageReferences": 23
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 130318,
+      "sha256": "a3c5fdedda24914b9a4ec3571ab05e854b0ea13eb1599929f610a535430bb974"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 19845,
+      "sha256": "b31efbdfd924d4f1f773ad2a73985e0a677cf9a6163ec424de35a17cdf7f465c"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 38199,
+      "sha256": "371b919d9e818a50f29dd1ddfdd460e5ae2fadb5282801d6ea03fd89edbe16d7"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 146035,
+      "sha256": "53c84bf54daf1a92486122bd374a77280435bbc37422ed301125f250338d41b5"
+    },
+    {
+      "filename": "05.png",
+      "bytes": 139730,
+      "sha256": "bce3069eec6132533173056684564caedcc2866ba251e2d05f01583b64860f42"
+    },
+    {
+      "filename": "06.png",
+      "bytes": 83926,
+      "sha256": "fab3ab0a55e1f93e92e933b6e1a6bc71e0a2c464da11e6c2048333ff86ea2e03"
+    },
+    {
+      "filename": "07.png",
+      "bytes": 66003,
+      "sha256": "db2a6226e5cdb3bbc572dc3a6693d82a2b46703e032b3089d8cb29ecc69b0a47"
+    },
+    {
+      "filename": "08.png",
+      "bytes": 192678,
+      "sha256": "bef3013f6a0df798f4a26feadc99766c868e56de15ba9ab8c66923ee2ad24abf"
+    },
+    {
+      "filename": "09.png",
+      "bytes": 219473,
+      "sha256": "8b7af4c2fe955bd5faf164d2ebfdce8cbe8436ab4729e9ed681a9532985c4adb"
+    },
+    {
+      "filename": "10.png",
+      "bytes": 108989,
+      "sha256": "ab2246222a60134f423dc2cb17f0c16cc2290ff653a05433ba4aa1f1237fbf02"
+    },
+    {
+      "filename": "11.png",
+      "bytes": 212035,
+      "sha256": "245a75001e0690e1ae0ff029e52d0b518e22bb979939fc5d06f2502f270e93d3"
+    },
+    {
+      "filename": "12.png",
+      "bytes": 157849,
+      "sha256": "25c39ece6ba94a8ae3ece542c1e25f5906793d7919861f1ba0f5cda6f010523c"
+    },
+    {
+      "filename": "13.png",
+      "bytes": 55410,
+      "sha256": "49c955a9f33a954fd6a9d482e0e2717f5820d067fc5a8aea5d22a2f960c4550f"
+    },
+    {
+      "filename": "14.png",
+      "bytes": 77609,
+      "sha256": "911dcbe11e722287e0d232c9ee3b7cf642ce6238fc5fd0f0d195d0a308124310"
+    },
+    {
+      "filename": "15.png",
+      "bytes": 130885,
+      "sha256": "fa58b973ccbef3738f9825d25e235cab537aae3ae93ec89fe98c12bb879a1d8e"
+    },
+    {
+      "filename": "16.png",
+      "bytes": 32991,
+      "sha256": "489e0a57e1c33847bd275d6107aff690d41a270f5bb5408572f4053380f8c818"
+    },
+    {
+      "filename": "17.png",
+      "bytes": 143021,
+      "sha256": "4e6a0558d4c1949dbe7ad65a10dbce6d3e74c98faaf7ea4d7dbb4c065e02e752"
+    },
+    {
+      "filename": "18.png",
+      "bytes": 32388,
+      "sha256": "b6e10cec9da9a30ef61a11516b141147640705fd1ec89bdcd0db6f16b76b3e78"
+    },
+    {
+      "filename": "19.png",
+      "bytes": 281204,
+      "sha256": "e9f716cff10983de468d44a0d7c8644e79e8436d933217fd0d41fc68c395aa1e"
+    },
+    {
+      "filename": "20.png",
+      "bytes": 188909,
+      "sha256": "c488681e72fe0ff1a0565b339efc5ac9f197aedb51829d6a7d27993c7ba1e4e8"
+    },
+    {
+      "filename": "21.png",
+      "bytes": 77896,
+      "sha256": "3ae1a030a44445baded9c9b45561621cc022903f3e7cac192b938abbf77698ec"
+    },
+    {
+      "filename": "22.png",
+      "bytes": 140451,
+      "sha256": "7df1150ce6db7173f237c82317c70f1d4b606d4307c03097deda89fd24e0cac9"
+    },
+    {
+      "filename": "23.png",
+      "bytes": 28039,
+      "sha256": "dc0aedc156a9c0b637d00efeab97b13ba159d75887c18e145ee93629ef17cde3"
+    }
+  ]
+}

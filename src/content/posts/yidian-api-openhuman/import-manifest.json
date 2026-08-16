@@ -1,0 +1,108 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/CE9ld5jRvoJ6aoxADz9cC6monTh",
+  "title": "一点API 使用教程(二十四)：OpenHuman 配置教程",
+  "slug": "yidian-api-openhuman",
+  "published": "2026-08-16T16:25:33+08:00",
+  "importedAt": "2026-08-16T08:25:44.247Z",
+  "sourceStats": {
+    "blocks": 51,
+    "images": 18,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 18,
+    "markdownImageReferences": 18
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 292254,
+      "sha256": "2503a9dbfc9701186a3da40601717ff107f659a8e5fcaf599ad4926ad62ab77f"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 170964,
+      "sha256": "66ee45b7010dade3a4a1d5e750274450d9a6027e5b5c983384c3a3843a66903f"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 154826,
+      "sha256": "bcfe3e7fd83a2f45bcdfe616e0ec217600a37f5b68a546cd2129fcf430e50183"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 163467,
+      "sha256": "61ae162877306c9ffd3c12cf1f3cc00ded92b944e5a7b170bc661a1691f48864"
+    },
+    {
+      "filename": "05.png",
+      "bytes": 372326,
+      "sha256": "60e8978b078b365dd0f83027679b590c13bf7995d71a8b4db8d56cbcdf6dc2c9"
+    },
+    {
+      "filename": "06.png",
+      "bytes": 134775,
+      "sha256": "8922dfb1881d6f89fc7da526b89bdb041181e7f687a789fec5b4d47c4b3ae11d"
+    },
+    {
+      "filename": "07.png",
+      "bytes": 467255,
+      "sha256": "598360a33a7082e834728470e4a68807b19725f79cca21b1376e18ca636c80dd"
+    },
+    {
+      "filename": "08.png",
+      "bytes": 246717,
+      "sha256": "0c3fc75b27ec8d10ad2ce39b2a7307427762cb5a849368445b59651b77ed31db"
+    },
+    {
+      "filename": "09.png",
+      "bytes": 658579,
+      "sha256": "9c4090226e0249947f5c0d4907d3e2ef2eb63be537126a3b7d64869ef9737e96"
+    },
+    {
+      "filename": "10.png",
+      "bytes": 373985,
+      "sha256": "cbb5d126c39eacb92288c126f820d4c83c6f8015f84ccac04f7e214bb4efac51"
+    },
+    {
+      "filename": "11.png",
+      "bytes": 86207,
+      "sha256": "08f7117aaf504e7742d5ba7a9763571834a5849f2b8a8cf0069aae2ab1b19099"
+    },
+    {
+      "filename": "12.png",
+      "bytes": 293011,
+      "sha256": "9e144cecca1cad86a02769f1abc3ddfac696f5f120e33294d7ab61bc850b7475"
+    },
+    {
+      "filename": "13.png",
+      "bytes": 1095002,
+      "sha256": "18e93e7cb075c16bee5f8fbc1371352981ae423cc4cbb77e2bff76c8768a5299"
+    },
+    {
+      "filename": "14.png",
+      "bytes": 846732,
+      "sha256": "36db8634cd90ad8ca84b318ff9ead3e1d8a22bc063e6c0a6bcfe5d0e67cc3214"
+    },
+    {
+      "filename": "15.png",
+      "bytes": 86402,
+      "sha256": "fd9b0db938d0b94c2c0c2f5737d6c7eae162bf335b788d51cd802b1b8a32addd"
+    },
+    {
+      "filename": "16.png",
+      "bytes": 792114,
+      "sha256": "5cb70f165e9f24b6d38fc8134ade4ba2bd18b54e76006d28b22bef1c4c590dba"
+    },
+    {
+      "filename": "17.png",
+      "bytes": 156023,
+      "sha256": "c0f3ccb222b566044b831a853b3e21e1503fa1a2d684ee93b9f2431021014b61"
+    },
+    {
+      "filename": "18.png",
+      "bytes": 1193330,
+      "sha256": "a8c12836d6787e72dcc9b7f9fdec07ce232f5b5c20c1baedfbc65acc0b71725b"
+    }
+  ]
+}

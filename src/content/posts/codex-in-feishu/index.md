@@ -3,7 +3,7 @@ title: 把 Codex 工作现场搬进飞书：群内直接聊业务、实时迭代
 published: 2026-07-24
 description: 在飞书群内直接对话业务，让 Codex 持续推进需求迭代。
 image: ./cover.png
-tags: [Codex, 飞书]
+tags: [codex, 飞书]
 category: 工作流
 draft: false
 ---

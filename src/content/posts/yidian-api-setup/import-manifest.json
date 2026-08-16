@@ -1,0 +1,58 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/GmNxdOU5to09kBxkm6yckAejn8d",
+  "title": "一点API 使用教程(六)：沉浸式翻译配置接入使用",
+  "slug": "yidian-api-setup",
+  "published": "2026-08-10",
+  "importedAt": "2026-08-10T12:25:18.677Z",
+  "sourceStats": {
+    "blocks": 30,
+    "images": 8,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 8,
+    "markdownImageReferences": 8
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 214221,
+      "sha256": "8dab5fbadcc95b6458457dec2a80ccb2850dbd3d18468c408f283e1efb0d1899"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 302353,
+      "sha256": "da455e6288b2d781ab2bfcee3a508e6ad64677e063ebe49310142f488785e1cd"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 465613,
+      "sha256": "d3083d247407b71c8914c5f17f9a19a2d233656b75b20b079c9422cebc96509c"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 583371,
+      "sha256": "e41c653ee018053c27fbebe652345f5b36250f10803d5537a0fe53be1027446f"
+    },
+    {
+      "filename": "05.png",
+      "bytes": 280198,
+      "sha256": "f7eaa9bca0475ef272593d310cbbe382c20cb995920b593bb7df3cd0f1c5269d"
+    },
+    {
+      "filename": "06.png",
+      "bytes": 333446,
+      "sha256": "ead7dbf6102835aef4327c8a780e335901d3ce8429419f2be697eb0840a81908"
+    },
+    {
+      "filename": "07.png",
+      "bytes": 392976,
+      "sha256": "2c0fbccc9958875d086d9d7fefe8a38ad0bc80a6a66481e1f3cfb0f55f475b97"
+    },
+    {
+      "filename": "08.png",
+      "bytes": 1247706,
+      "sha256": "dfe75a5853a5bfff6ea13d3872847c43c4e1c4df3162bdbdb61292e1ba58a9f0"
+    }
+  ]
+}

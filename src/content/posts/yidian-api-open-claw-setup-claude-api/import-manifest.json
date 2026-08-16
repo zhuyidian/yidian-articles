@@ -1,0 +1,213 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/B20pdpGrEoYZaUxsfYpc2WzqnNh",
+  "title": "一点API 使用教程(二十三)：Open Claw 接入 Claude 第三方中转 API 教程",
+  "slug": "yidian-api-open-claw-setup-claude-api",
+  "published": "2026-08-16T16:23:38+08:00",
+  "importedAt": "2026-08-16T08:23:57.077Z",
+  "sourceStats": {
+    "blocks": 251,
+    "images": 39,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 39,
+    "markdownImageReferences": 39
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 554888,
+      "sha256": "739e50039b539e477f909caf4f409fef3ad6861c0c295948023f5450ad9f8719"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 290879,
+      "sha256": "ad5142fdaa5c6c067b9622740ac34aabdf13485bb54cc2f7c8a0ba59a4003edb"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 9180,
+      "sha256": "211a6e50ae150e4bb841054a453c04488062418db82820f87e780af6bb708f78"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 7452,
+      "sha256": "6c5f9fde6c96fb5d1afd3ba39ccbefe2f6d1348d4572583a5f50f32878567667"
+    },
+    {
+      "filename": "05.png",
+      "bytes": 262543,
+      "sha256": "4812c1b7ce60043a999c12fde6bbbfd5aa3eae263c415efa41f38f86d9823f5d"
+    },
+    {
+      "filename": "06.png",
+      "bytes": 240522,
+      "sha256": "c3e036315059361fe82900c574e520003584e242b884bb604b4c0073f459e054"
+    },
+    {
+      "filename": "07.png",
+      "bytes": 4280,
+      "sha256": "03983bdeff1f2951117d3c0dc879ec27f60943adf4e1100a0b32da24c8f64897"
+    },
+    {
+      "filename": "08.png",
+      "bytes": 3767,
+      "sha256": "c3c21053f8741b527a1a28978a3dd6958a90004cefde324a38ff3ea897c56f91"
+    },
+    {
+      "filename": "09.png",
+      "bytes": 8833,
+      "sha256": "2d608f5c4473585adbf7639ba245e91586caa2309d05c0cd9c49b0b7ab04bb31"
+    },
+    {
+      "filename": "10.png",
+      "bytes": 51197,
+      "sha256": "8e17d71ec6720c07026a99d10035f6689630c7966514c1d44dd480f1dbad3ce8"
+    },
+    {
+      "filename": "11.png",
+      "bytes": 15290,
+      "sha256": "5c59aec9d49b7cc09ff7b9f760aaf6a033f0059c253340bb51a614f4c2e5366e"
+    },
+    {
+      "filename": "12.png",
+      "bytes": 4761,
+      "sha256": "3ecdf99695f545d31a0f40d63c5f118b21b3eadcfdf3f881b5ccb55a4ffb2dec"
+    },
+    {
+      "filename": "13.png",
+      "bytes": 61867,
+      "sha256": "64a99e881d1f00cb297906e76535957a67ad0a8fb83912371917dbbad91dd9db"
+    },
+    {
+      "filename": "14.png",
+      "bytes": 64711,
+      "sha256": "de8067a65645a30e008413f95186c13f003a1a3cbe134df0529264c7832768ee"
+    },
+    {
+      "filename": "15.png",
+      "bytes": 20164,
+      "sha256": "c254b5ac0b00f2fd8d6c3184f75a04779af5e63e59e689270f5d1989e15b3d13"
+    },
+    {
+      "filename": "16.png",
+      "bytes": 69779,
+      "sha256": "b4669a16303aab5a6c96e9b9f0ddfd560f3019e49335598f86c4bc14b64c4bed"
+    },
+    {
+      "filename": "17.png",
+      "bytes": 31123,
+      "sha256": "99fdd7eb7a8dcf3d474621a83b4184c1fafa93f8c7f3cc7f4ebe515475aac998"
+    },
+    {
+      "filename": "18.png",
+      "bytes": 190442,
+      "sha256": "d87f1838d72892a9bb8e23403b0f8e9ee648cbf56e72c72fbc4b815663f38064"
+    },
+    {
+      "filename": "19.png",
+      "bytes": 76878,
+      "sha256": "ab84b2b1d364ea69603d3ae4ad27682f125f2e2147a2013159b50a20c59549ba"
+    },
+    {
+      "filename": "20.png",
+      "bytes": 54841,
+      "sha256": "4fafb7a78d157e7757ecb9a36c5676866a20177b5114c84d91d642b37b85d8a2"
+    },
+    {
+      "filename": "21.png",
+      "bytes": 310422,
+      "sha256": "26b6bd456065964423c8e9a76edd523772960bb38b1587c54846a1ba378f84b9"
+    },
+    {
+      "filename": "22.png",
+      "bytes": 356362,
+      "sha256": "c3ef80841aed8bf05171a7a36e0e2ac5348c18f2fd74f19c4cc3e96ec5ef1d09"
+    },
+    {
+      "filename": "23.png",
+      "bytes": 159421,
+      "sha256": "1f13ebc8e8cbfdf9d977419d02c7176e0ec1c15369ba93c1f3e0827430d9cedc"
+    },
+    {
+      "filename": "24.png",
+      "bytes": 188337,
+      "sha256": "4192cc5382109ec2bd76a0555611433f098b6a76ddb7f44b05c644958c247478"
+    },
+    {
+      "filename": "25.png",
+      "bytes": 158536,
+      "sha256": "bc8eaa9ccb4b8917837a34a9c7a01f0064ca67bed0b23a4b94e0ec8e0051b437"
+    },
+    {
+      "filename": "26.png",
+      "bytes": 152491,
+      "sha256": "26130da1698b75fe323b1374594db756955fc6a8c3a8df27a19b8738bd900855"
+    },
+    {
+      "filename": "27.png",
+      "bytes": 24467,
+      "sha256": "9fad87e8eae97f224656e5c752fc2f77cf35bae7a9f61af36cbac1b040554ac6"
+    },
+    {
+      "filename": "28.png",
+      "bytes": 38075,
+      "sha256": "6d418fa60149f576cf7df4e197cbf80409f598509f47394d72eb2aaf5fa8c9d9"
+    },
+    {
+      "filename": "29.png",
+      "bytes": 14480,
+      "sha256": "db61197cef2fc20469e059043692faeb052224ecc6167528a3c03a01a83afdad"
+    },
+    {
+      "filename": "30.png",
+      "bytes": 12584,
+      "sha256": "724f233db1fa29d29e4a13ca3ae668f2c80e123fb04ebd428e9fb08c5000b3f1"
+    },
+    {
+      "filename": "31.png",
+      "bytes": 86024,
+      "sha256": "9dc66478c08610ce8938a18180ccbba15d6232def9f83fa7231be112843b4ecd"
+    },
+    {
+      "filename": "32.png",
+      "bytes": 144272,
+      "sha256": "c80238170738d721125cfc5da85d61e02fb1cd5dbe00685e4ae8b6a2a7a7feea"
+    },
+    {
+      "filename": "33.png",
+      "bytes": 146911,
+      "sha256": "6039c7712243d18a86ab62a737ba537174445589b9b204db567a888a572b8859"
+    },
+    {
+      "filename": "34.png",
+      "bytes": 26709,
+      "sha256": "12acfd6bc723c47604c1f9e35fe7b055c481f9bd89165abae54fd68177fe3731"
+    },
+    {
+      "filename": "35.png",
+      "bytes": 480920,
+      "sha256": "440e98d6f51ffd0b6148ab386224862b14615678693252d73055472b38b1c582"
+    },
+    {
+      "filename": "36.png",
+      "bytes": 160156,
+      "sha256": "5642b73ffe359152f0e823f488b2704d48cdeb067455ffc0e2ae8927c73f714c"
+    },
+    {
+      "filename": "37.png",
+      "bytes": 48270,
+      "sha256": "19a5c8e966c1419d948bcd08bfad5f00533a17e640754c850139e504c86ee960"
+    },
+    {
+      "filename": "38.png",
+      "bytes": 501402,
+      "sha256": "2748714c268cb07c7776174b9cbfc7fff029b9189fa146a289ca79dbd4251588"
+    },
+    {
+      "filename": "39.png",
+      "bytes": 293912,
+      "sha256": "cc8f7dc36cc3ba44e16653e040673519db8fea67615f9ca4f36c8233a9099736"
+    }
+  ]
+}

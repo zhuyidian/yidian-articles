@@ -1,0 +1,98 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/Jsf6dy5a3olHUix71NhcnV4OnAD",
+  "title": "一点API 使用教程(十九)：IDEA/PyCharm 配置 Claude Code",
+  "slug": "yidian-api-idea-pycharm-setup",
+  "published": "2026-08-16T16:13:05+08:00",
+  "importedAt": "2026-08-16T08:13:12.534Z",
+  "sourceStats": {
+    "blocks": 68,
+    "images": 16,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 16,
+    "markdownImageReferences": 16
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 9974,
+      "sha256": "8209d52be5bc7bf389a412b32d4f9e1dcd7f49fed0e9e7227166e5f3c61c787b"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 340656,
+      "sha256": "25ed6993f34ac6ff4fc0786d5f37aa74a1013a4bacae65f34430d364f87340a5"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 116659,
+      "sha256": "f4e8a77c83cdfc7882188c19518b740d211ebb8c12e675d610b9dd3f040b3e56"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 119491,
+      "sha256": "d62c242f66a6ac0a678172bc7392958c1083b8f2ee172492cb980fdf42af39a2"
+    },
+    {
+      "filename": "05.png",
+      "bytes": 102296,
+      "sha256": "9802f478ce15389c19e7ad20cbef871993950cc45314d7d6f3cbc990c8f5be9c"
+    },
+    {
+      "filename": "06.png",
+      "bytes": 159434,
+      "sha256": "cbcd6cbb709d673ee0fdcaa8e9f7bcbf4a2de831830109ee3d4f6bc19c2f37ca"
+    },
+    {
+      "filename": "07.png",
+      "bytes": 44612,
+      "sha256": "b26b323095aadaba0e759158fbb67bd702c9c842ec8260396e99c97f2594ceca"
+    },
+    {
+      "filename": "08.png",
+      "bytes": 160772,
+      "sha256": "cef0abe37ca071a3aee2d3aaf6d9c82c8356a6ad57511e2df7ef5fd6dfa80e28"
+    },
+    {
+      "filename": "09.png",
+      "bytes": 499382,
+      "sha256": "a6ed40b06ff3ebe092dc0860acd3c6442191794719e37365ad6311332733d12e"
+    },
+    {
+      "filename": "10.png",
+      "bytes": 256703,
+      "sha256": "e6d26ae559c4af63f3a69e39ddf75b9268ee99aa34649a6ace9831f79427583c"
+    },
+    {
+      "filename": "11.png",
+      "bytes": 270018,
+      "sha256": "208fd8cc24993231951951da3d6ad794af7969e8789e50b1b998e21e49e06702"
+    },
+    {
+      "filename": "12.png",
+      "bytes": 37113,
+      "sha256": "e71e230da814bb0ffb9dc07e11adccb5c42594238dfd3ea810828bed6ed84d21"
+    },
+    {
+      "filename": "13.png",
+      "bytes": 299456,
+      "sha256": "247a20e7a3c398673c03d5c4334a9805860f6f6110011221392289b07ce9be09"
+    },
+    {
+      "filename": "14.png",
+      "bytes": 67484,
+      "sha256": "ba1598c41f0eea5c2dff10deaf7daf7c9fa410101d4eccadbabacde89558e444"
+    },
+    {
+      "filename": "15.png",
+      "bytes": 202731,
+      "sha256": "39726fe0d0bec112a7a2ef9f027fa6d5d2e889d1e585836a2e43b0ddce3ffc53"
+    },
+    {
+      "filename": "16.png",
+      "bytes": 28432,
+      "sha256": "f5189c067b1920c2a5493f68141a4bce4b2e1386f332e53545134fce6414ad80"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/Lzx0d2oCuozAeAxMF2Uc13Sinyf",
+  "title": "一点API 使用教程(八)：Obsidian 配置 Copilot 插件接入使用",
+  "slug": "yidian-api-obsidian-copilot-setup",
+  "published": "2026-08-10",
+  "importedAt": "2026-08-10T12:40:09.532Z",
+  "sourceStats": {
+    "blocks": 28,
+    "images": 6,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 6,
+    "markdownImageReferences": 6
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 188899,
+      "sha256": "fcea7ae4923c6f2660ec5a059b3997904c2e604a08f8f1b6ce84de781dd1a2ad"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 266171,
+      "sha256": "71cd6d4f75bcd1ed28e4b772ee1979404dfc6b23272008899079e5177013609e"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 390104,
+      "sha256": "d6798db024a4ffb0148a0d69565dfe16b9778d03a590e719a9e2a089aaabde3e"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 205629,
+      "sha256": "8267546cb817495d940189ddaf248ea2891e3b010338a9776f66132e6d48f737"
+    },
+    {
+      "filename": "05.png",
+      "bytes": 134680,
+      "sha256": "94ba91990e84c177f99468f73f2d1252f056968451ecd005e26de30b2b70140d"
+    },
+    {
+      "filename": "06.png",
+      "bytes": 1060304,
+      "sha256": "2bd902a4352107f902012380d094cf4d27f972209887007f08119605e84a61d3"
+    }
+  ]
+}

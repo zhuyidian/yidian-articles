@@ -1,0 +1,93 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/BXxMd6wufojNLUx7GBIc6z2MnWb",
+  "title": "一点API 使用教程(十)：CC Switch 接入使用",
+  "slug": "yidian-api-cc-switch-setup",
+  "published": "2026-08-10",
+  "importedAt": "2026-08-10T12:51:05.609Z",
+  "sourceStats": {
+    "blocks": 65,
+    "images": 15,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 15,
+    "markdownImageReferences": 15
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 562240,
+      "sha256": "45e3a933fb07ee4fa38b80d0f1d8c7ba915c7982676694b2d8802137df046712"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 844592,
+      "sha256": "4856d0bff881389803213a2b57c7b5fe8b0c47776317d4f304bad6e92fedfb03"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 895766,
+      "sha256": "30fee6c041e1f1ecc59d3cbdbf97cc0d0f4e31fd9c48ce695be125191ce022e6"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 76943,
+      "sha256": "b18062cd1787050a61261645f8cae9d60e3263621581804e38245706dc821304"
+    },
+    {
+      "filename": "05.png",
+      "bytes": 514825,
+      "sha256": "e0ce2469a7be7b21ae7ea0c4b46d88a11f0a2848244dcb22cf583cea4dad9528"
+    },
+    {
+      "filename": "06.png",
+      "bytes": 628837,
+      "sha256": "0adef4e1f26a11dda58e184da7971a241c7b77aa42526b35f85d0178145e90aa"
+    },
+    {
+      "filename": "07.png",
+      "bytes": 174525,
+      "sha256": "960ccb5d9f62bcbaf64d6d858b91c37dfdd68a301d89136cad22001d2726c54e"
+    },
+    {
+      "filename": "08.png",
+      "bytes": 232514,
+      "sha256": "8d3b9b79a182afe44eb6c23db8ad1b06bb83021319daa22b0fd788ad1bbccb43"
+    },
+    {
+      "filename": "09.png",
+      "bytes": 140669,
+      "sha256": "ca7b54649acdb4b9bd44698a5edcde9198fd090cddc282c58898e8c57dd25005"
+    },
+    {
+      "filename": "10.png",
+      "bytes": 151013,
+      "sha256": "16a79de9138181201176f0bffac97d2aa5bc4bc5eaadc38c75869193dc57045e"
+    },
+    {
+      "filename": "11.png",
+      "bytes": 120994,
+      "sha256": "6247e81a19c5d6e9110fadcfa7d72e4b1008d04691f1d0c856f79975413d7d86"
+    },
+    {
+      "filename": "12.png",
+      "bytes": 221700,
+      "sha256": "6e70b8e5de51a9e5273d0dc855c6f587cd39698225a1c7dbba20cdbe92ccc3f7"
+    },
+    {
+      "filename": "13.png",
+      "bytes": 636853,
+      "sha256": "5ca6de670ef132089fe83938d16febf6e54f741317e6168a870f533f0a016548"
+    },
+    {
+      "filename": "14.png",
+      "bytes": 213796,
+      "sha256": "f9d0884c1e9ff1c782879550fd6d15a47b5f213c205b1c8c326286f44cd43bd1"
+    },
+    {
+      "filename": "15.png",
+      "bytes": 79361,
+      "sha256": "94498bfbed2ea058d9be066c3e3794fd0afbd4c156a65cb1c92f6964ea25447a"
+    }
+  ]
+}

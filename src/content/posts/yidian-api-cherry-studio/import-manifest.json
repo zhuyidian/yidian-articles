@@ -1,0 +1,133 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/EKGzdPHe3ogd8axow95crIjTnve",
+  "title": "一点API 使用教程(十四)：Cherry Studio 使用教程",
+  "slug": "yidian-api-cherry-studio",
+  "published": "2026-08-16T15:49:01+08:00",
+  "importedAt": "2026-08-16T07:49:15.356Z",
+  "sourceStats": {
+    "blocks": 62,
+    "images": 23,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 23,
+    "markdownImageReferences": 23
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 273636,
+      "sha256": "d11fe3f8cd1fd3fef298328030db2dc780f0c5bae1190366d9fb48653b4c34f4"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 60795,
+      "sha256": "86e3dd5fdc1a2de9895d599ab812db2107606fafbde7448e9f820da0588ccacb"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 85309,
+      "sha256": "ea0ed5fb0f2b9e03380ccbab453a75a37379290908f2812f6af67fc2fe271b94"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 954002,
+      "sha256": "02690954b8667ec6e35256cab3a7a31d097ad6a43315c13a7b1beee0ec30cb31"
+    },
+    {
+      "filename": "05.png",
+      "bytes": 642951,
+      "sha256": "7e99d940e99e80d5bca0b6c6cba77edaddc36ab390e20fd63867a0f6f0acfa7d"
+    },
+    {
+      "filename": "06.png",
+      "bytes": 483480,
+      "sha256": "97301f454e57e2401bd7f08a8da477d6a8e8b89e6470567a1c4cd282f553b5b1"
+    },
+    {
+      "filename": "07.png",
+      "bytes": 423648,
+      "sha256": "8d89b54261af4c2e84871472c550a9c6c61041d6b5ed509b7afd13790f75f92e"
+    },
+    {
+      "filename": "08.png",
+      "bytes": 949379,
+      "sha256": "96e055b88722f2bad2cadf0e136df946c3a31c8224b98baf6565103b7a536a9c"
+    },
+    {
+      "filename": "09.png",
+      "bytes": 78307,
+      "sha256": "00f3a816aa72ac79581c8a006e7cc8b9426133dc09f7e79e81e538e73cb5c0ce"
+    },
+    {
+      "filename": "10.png",
+      "bytes": 519647,
+      "sha256": "e19e18b10fee0adbf6a38d4306941954c1279e256c6a150e236a8eefaf44a7a5"
+    },
+    {
+      "filename": "11.png",
+      "bytes": 800421,
+      "sha256": "232703bd345b472d521ea207856d679312757bce02cf71d00c1d4f6f9526deba"
+    },
+    {
+      "filename": "12.png",
+      "bytes": 642575,
+      "sha256": "e02b2fd0885c82fc23ec6af485b7763d5f923f640fc771f8b0c6d5f0b4df0a5d"
+    },
+    {
+      "filename": "13.png",
+      "bytes": 949521,
+      "sha256": "e7e3d67c73077a180ee760b280f5632240f55e7cd50d1e625a3c1233ffdd7e1d"
+    },
+    {
+      "filename": "14.png",
+      "bytes": 119949,
+      "sha256": "7a16dccde3d78292e5ecb3b6ccfa43b136b8fbaf0cc704b73df090e86ff20ad6"
+    },
+    {
+      "filename": "15.png",
+      "bytes": 232369,
+      "sha256": "c4b1379ab3987100b2ac27b88f0207f94f6a1576c13efb7e9531c936c63f9751"
+    },
+    {
+      "filename": "16.png",
+      "bytes": 191146,
+      "sha256": "4f6875724f48cda3e2c799ff4e5ab8fd986b6f12cd0a841723caa87fdd61907a"
+    },
+    {
+      "filename": "17.png",
+      "bytes": 726543,
+      "sha256": "79fec6a9956188a5bee30f75965cf91f8d8dbe9c630cd3818738fc63d116f223"
+    },
+    {
+      "filename": "18.png",
+      "bytes": 762751,
+      "sha256": "f11807225a9ed7cfacc6a0e04207a7c66763c77c7b9c51484beb1224159cccfc"
+    },
+    {
+      "filename": "19.png",
+      "bytes": 530279,
+      "sha256": "925228396427390adfc61b4c4de05ac77307dea76e689b7759689773fb7c4023"
+    },
+    {
+      "filename": "20.png",
+      "bytes": 453714,
+      "sha256": "969e9a836043af89cdecb3a03cae6dd345ce899da7a629ee3a4671ea3b7bdfe2"
+    },
+    {
+      "filename": "21.png",
+      "bytes": 208895,
+      "sha256": "cb0eef791c2b0aaa87d8df2607a56d7f7a5f6e57dfa5c6e4576fc4f41b25ad8e"
+    },
+    {
+      "filename": "22.png",
+      "bytes": 176136,
+      "sha256": "3ec6902cf303ff5bff50d634542b66a41092f87f295cddc2f7f45c41b3b65b8c"
+    },
+    {
+      "filename": "23.png",
+      "bytes": 656802,
+      "sha256": "b0933d6a042e6b346083e8cfe18be84d619238cf15ee61f6f6c56cb18a7052e0"
+    }
+  ]
+}

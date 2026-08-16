@@ -1,0 +1,123 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/SJYadbgugo9O58x0rkHc2wGbnCd",
+  "title": "一点API 使用教程(十六)：Windsurf 配置 Claude Code 插件",
+  "slug": "yidian-api-windsurf-claude-code",
+  "published": "2026-08-16T16:01:48+08:00",
+  "importedAt": "2026-08-16T08:02:00.399Z",
+  "sourceStats": {
+    "blocks": 69,
+    "images": 21,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 21,
+    "markdownImageReferences": 21
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 624922,
+      "sha256": "0186c4d60f2abb0d2e93ffaa70187aab5d33552595a33f39a90c5c7aa9b35fde"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 165190,
+      "sha256": "bcec56eeabb28b49ad2b78a3f42ef92652110c6931fd32b6f6e3c856d3c9ca4e"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 93357,
+      "sha256": "7d498faba7ec88080e59e17452a23d1600e49ba7d861c8da23acd14104761213"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 289464,
+      "sha256": "4c0321dfe1bfbdfe80d4d6cf24b88e8792e01022842c8eb3dcd943974e5baa62"
+    },
+    {
+      "filename": "05.png",
+      "bytes": 170790,
+      "sha256": "1fc7a6c9a31c041b177a6a05823b4ba56ddaf15979eb809215d4c92e9a6e7a6c"
+    },
+    {
+      "filename": "06.png",
+      "bytes": 650549,
+      "sha256": "591aeff3f8c1a28c63cab53f853ba3d2923087c6442dd8d7ec5df8832b80efcc"
+    },
+    {
+      "filename": "07.png",
+      "bytes": 662135,
+      "sha256": "2314596e0bca751f65d7093a013ea0c4c43285f3380518ce24fa0dba0717cafc"
+    },
+    {
+      "filename": "08.png",
+      "bytes": 720245,
+      "sha256": "1b12a43ac083984e542ad4e4f5189d5b354312c3cef5c171a2e262e17dab9822"
+    },
+    {
+      "filename": "09.png",
+      "bytes": 656726,
+      "sha256": "c5fdd9c1301cf5e314ddfd506be8a3ad5d052d25ae2516d132ab040fdc2428df"
+    },
+    {
+      "filename": "10.png",
+      "bytes": 502988,
+      "sha256": "f6298c2f94794f2b329fb196241cd2b13b6ba0a50f394261860a497669d8a247"
+    },
+    {
+      "filename": "11.png",
+      "bytes": 77799,
+      "sha256": "36e8bbf322de90b768e8889452a97d14139f71c26eebf5ca205cc70d0537372d"
+    },
+    {
+      "filename": "12.png",
+      "bytes": 484243,
+      "sha256": "106d2dd130070a2ea738a41cfc734fb88d3e4d06370dc56f9ee148bb55624bd1"
+    },
+    {
+      "filename": "13.png",
+      "bytes": 252807,
+      "sha256": "59cbffe5afbeb24e907c92f8d53a03a95c2aeec05e8d43d0e0124318dd767db7"
+    },
+    {
+      "filename": "14.png",
+      "bytes": 347175,
+      "sha256": "97f284feaa0680d4fe92ad4406d78092bfccd6333485f9e5992c62b7f7c76c3d"
+    },
+    {
+      "filename": "15.png",
+      "bytes": 425220,
+      "sha256": "a2ff6492dd32f06d32f4088417275613d8b1ebf79a3c1b42012e8e00b7f499ad"
+    },
+    {
+      "filename": "16.png",
+      "bytes": 739900,
+      "sha256": "8a83ed3e78cdb22bd1c431d6b7a43753ddc5d487646c9891f3889e08b284e4b8"
+    },
+    {
+      "filename": "17.png",
+      "bytes": 252931,
+      "sha256": "857187befdce98fa46075bc8a2cad4c4306d404e371f452ba708daf272257d3e"
+    },
+    {
+      "filename": "18.png",
+      "bytes": 168410,
+      "sha256": "7d387f48323f39ebf6180a76f1d8d2261d18432496524ae999ad81db9a4889c6"
+    },
+    {
+      "filename": "19.png",
+      "bytes": 540736,
+      "sha256": "ef8ca592916d2059b2ab7efe200006f5f39ed29d7ae351e934dd5313f5688a62"
+    },
+    {
+      "filename": "20.png",
+      "bytes": 258947,
+      "sha256": "1a6be51653663b2cf0464cc04b2ddf1c6a0df79256cec53397a42efbce426af1"
+    },
+    {
+      "filename": "21.png",
+      "bytes": 113609,
+      "sha256": "5bf78e114c401353651d60f139531b11edef12518237b875fd023488d2be02f1"
+    }
+  ]
+}

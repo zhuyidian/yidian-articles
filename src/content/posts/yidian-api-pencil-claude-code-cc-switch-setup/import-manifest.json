@@ -1,0 +1,43 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/DQdMdSGxNoAvzqxVDb2cQCrynzh",
+  "title": "一点API 使用教程(七)：Pencil 配置 Claude Code+CC-Switch插件接入使用",
+  "slug": "yidian-api-pencil-claude-code-cc-switch-setup",
+  "published": "2026-08-10",
+  "importedAt": "2026-08-10T12:36:48.535Z",
+  "sourceStats": {
+    "blocks": 24,
+    "images": 5,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 5,
+    "markdownImageReferences": 5
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 646174,
+      "sha256": "98712f4998d587043183f62326b9cb5e13f7655d5b03fb581f45d596a4a158f1"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 480271,
+      "sha256": "df218ec9408849efbf36fc70e5f8ee610353feb9a2e80562904466b5d1a193d5"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 673326,
+      "sha256": "56cbca585c57b3650901714c8c563ebeeb94965009f4d3e97329592f11ae486e"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 112118,
+      "sha256": "1c12ed36dc0b2215997159209a167f28cb3bf7b53163f5705a4bbad815a74232"
+    },
+    {
+      "filename": "05.png",
+      "bytes": 577118,
+      "sha256": "db52ef0f22d6a75b7fa3d05bd5bdd73f48a7b8eb1fb804b018df17f69ad05e64"
+    }
+  ]
+}

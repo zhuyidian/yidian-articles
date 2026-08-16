@@ -49,6 +49,58 @@ A static blog template built with [Astro](https://astro.build).
 4. Run `pnpm new-post <filename>` to create a new post and edit it in `src/content/posts/`.
 5. Deploy your blog to Vercel, Netlify, GitHub Pages, etc. following [the guides](https://docs.astro.build/en/guides/deploy/). You need to edit the site configuration in `astro.config.mjs` before deployment.
 
+## 飞书文档发布
+
+可以将飞书云文档或知识库页面直接发布为本站文章。导入器会保留正文顺序、链接、代码块与原始图片文件，并默认同步主站首页的本地文章兜底数据。
+
+1. 将 `config/local.secrets.example.json` 复制为 `config/local.secrets.json`，填写飞书应用的 `app_id` 与 `app_secret`。真实配置已被 Git 忽略，不能提交。
+2. 先预检文档，不会创建文章：
+
+   ```powershell
+   pnpm feishu:import -- --url "https://my.feishu.cn/docx/xxxxxxxx" --dry-run
+   ```
+
+3. 确认预检结果中的 `unsupportedBlocks` 为空后，执行正式导入：
+
+   ```powershell
+   pnpm feishu:import -- --url "https://my.feishu.cn/docx/xxxxxxxx" --published "2026-08-10T20:30:45+08:00" --tags "一点API,教程" --category "API 服务"
+   ```
+
+   `--published` 支持 `YYYY-MM-DD` 和带时区的 ISO 8601 时间戳；省略时会自动记录导入当刻的时分秒。
+
+   文章站会按照 `published` 的完整时间戳（精确到秒及毫秒）从新到旧排序，而不是只按照日期排序。同一时间的文章会再按 slug 稳定排序。旧文章的日期格式仍然兼容；已通过导入清单记录时间的飞书文章会使用对应的精确导入时间。
+
+   新建文章时，`pnpm new-post <filename>` 也会自动生成带时区的精确发布时间。例如：
+
+   ```yaml
+   published: 2026-08-11T20:30:45+08:00
+   ```
+
+4. 需要重新导入同一篇文章时，使用 `--overwrite` 覆盖同 slug 的已有文章及其图片、导入清单。该选项仅用于确认需要替换既有内容的情况：
+
+   ```powershell
+   pnpm feishu:import -- --url "https://my.feishu.cn/docx/xxxxxxxx" --overwrite
+   ```
+
+5. 导入完成后运行：
+
+   ```powershell
+   pnpm check
+   pnpm build
+   ```
+
+文章会创建在 `src/content/posts/<slug>/`，其中包含 `index.md`、`images/` 和导入校验清单。默认 slug 根据文章标题生成，例如 `一点API 使用教程(五)：Open Code接入使用` 会生成 `yidian-api-open-code-setup`。
+
+`--slug` 用于为文章指定自定义 URL，必须使用小写英文字母、数字和单个连字符，例如：
+
+```powershell
+pnpm feishu:import -- --url "https://my.feishu.cn/docx/xxxxxxxx" --slug "yidian-api-chatbox-config-setup" --tags "Chatbox" --category "API 服务"
+```
+
+如果另一篇飞书文档与已有文章标题相同，自动生成的 slug 也会相同。此时不要直接使用 `--overwrite`，应为新文章指定一个有语义且唯一的 `--slug`。`--overwrite` 仅用于确认要更新同一篇已有文章的情况。若只发布文章站、不更新主站文章列表，在命令末尾加入 `--no-sync-main-site`。
+
+表格、附件、嵌入内容或特殊布局无法无损转换为 Markdown 时，导入器会停止发布并列出对应 Block 类型，不会静默遗漏内容。
+
 ## 📝 Frontmatter of Posts
 
 ```yaml
@@ -85,6 +137,7 @@ All commands are run from the root of the project, from a terminal:
 | `pnpm check`               | Run checks for errors in your code                  |
 | `pnpm format`              | Format your code using Biome                        |
 | `pnpm new-post <filename>` | Create a new post                                   |
+| `pnpm feishu:import -- ...`| Import a Feishu document as a post                  |
 | `pnpm astro ...`           | Run CLI commands like `astro add`, `astro check`    |
 | `pnpm astro --help`        | Get help using the Astro CLI                        |
 

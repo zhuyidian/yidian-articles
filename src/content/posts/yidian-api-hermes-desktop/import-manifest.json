@@ -1,0 +1,63 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/AJBFdIH45oQlYyxcTzZcwKyRnPg",
+  "title": "一点API 使用教程(二十六)：Hermes Desktop 桌面端",
+  "slug": "yidian-api-hermes-desktop",
+  "published": "2026-08-16T16:29:51+08:00",
+  "importedAt": "2026-08-16T08:29:57.375Z",
+  "sourceStats": {
+    "blocks": 28,
+    "images": 9,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 9,
+    "markdownImageReferences": 9
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 204033,
+      "sha256": "8d7935f2d23c9b7d348fefdea6a730ca203cbc86903bb9030364d455b1d971a0"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 193712,
+      "sha256": "088d528ec00b52f96ec08d7f1977e9aef18ef3e62f1ee6b5a53e3424052701bd"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 371802,
+      "sha256": "62cc27a05aae19c79bd9741fa393477700c952aca3c78177ff91d3a0d10ad1ba"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 1459560,
+      "sha256": "836ee04ce2fbf0bc08bd511295bbf4a1bc44d67061b058f64550890607833de2"
+    },
+    {
+      "filename": "05.png",
+      "bytes": 353207,
+      "sha256": "1f7db22815e1221eea76c8cb9e12a51b80fdcba842bc6bfe3c225ca9fbd98013"
+    },
+    {
+      "filename": "06.png",
+      "bytes": 66095,
+      "sha256": "e34430a3eb9ab83b3d45701077dfc2eac7470373f5b1c12ff4f8042a585a6c9c"
+    },
+    {
+      "filename": "07.png",
+      "bytes": 294022,
+      "sha256": "a53fcdc860c2c6f0245f98da251bd7d7406ff02cb4114bfab732c3b3ba32b48a"
+    },
+    {
+      "filename": "08.png",
+      "bytes": 1566780,
+      "sha256": "d89bd663b9e136660ee8a5c3a737c6ec16491a9ead0189922d9a8c502f35a122"
+    },
+    {
+      "filename": "09.png",
+      "bytes": 229843,
+      "sha256": "dd5fdc46bcdf0f602292b59385e42a2aa21555de11749a02f9be562af5d6b824"
+    }
+  ]
+}

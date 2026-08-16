@@ -1,0 +1,138 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/SkoddcCdtoV29xxHJ4WcMdIVnNT",
+  "title": "一点API 使用教程(十八)：Trae 配置教程",
+  "slug": "yidian-api-trae",
+  "published": "2026-08-16T16:06:13+08:00",
+  "importedAt": "2026-08-16T08:06:24.762Z",
+  "sourceStats": {
+    "blocks": 87,
+    "images": 24,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 24,
+    "markdownImageReferences": 24
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 149994,
+      "sha256": "6db7e6025f1eeb4c4bae52ba6395f865d1594f895623a62ff6c9156fb20aeac0"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 62455,
+      "sha256": "fd2ce6bb634da77cb235463c8c79ae5c7baf39e1619be0f9f27eda1752e0ef52"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 62525,
+      "sha256": "a3d605f77178c84da29c4304701c061f2d478774437e98073d9c3da47f00e1a4"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 90604,
+      "sha256": "47c1561e82162d61cceed724189e1cd384804a14f4535bd6a78c0418d378749d"
+    },
+    {
+      "filename": "05.png",
+      "bytes": 57883,
+      "sha256": "d83f96fd9ac240522be92c873257f71aa27ba612de6e3c5fe1209865c71f2d3c"
+    },
+    {
+      "filename": "06.png",
+      "bytes": 49984,
+      "sha256": "a9cea0659a0e5c29013c9588b86dd7e1abd5126e7b04e1b5538e475307fe683c"
+    },
+    {
+      "filename": "07.png",
+      "bytes": 112554,
+      "sha256": "9f75a833bffb9b3dafb56b0226f065965d9d6607e3198d507d925dd9fb91b80a"
+    },
+    {
+      "filename": "08.png",
+      "bytes": 60626,
+      "sha256": "afb54c25d7638a44ff284a38fecb5681eb533d119dfe0734fd4ee1f757c92edd"
+    },
+    {
+      "filename": "09.png",
+      "bytes": 85326,
+      "sha256": "7df654c9dfe394bb592912f5f7a45653b2ec556d7a57930df3942ae465da415a"
+    },
+    {
+      "filename": "10.png",
+      "bytes": 37901,
+      "sha256": "7b7e3da73ea6a6ca979116c5a7d296143a081ddf224eec63629e019a91bc95bf"
+    },
+    {
+      "filename": "11.png",
+      "bytes": 38462,
+      "sha256": "da6cff3590e538d8bc49ee471d3abda9010671ddc695f6d2a92e626b3ffd1ed0"
+    },
+    {
+      "filename": "12.png",
+      "bytes": 73875,
+      "sha256": "2bc8dcf54d6b7b1a440f4e969a3e54d1b5414cb77e71a3e29231884a5ff6992c"
+    },
+    {
+      "filename": "13.png",
+      "bytes": 149368,
+      "sha256": "05902c9e9ca1e249bbf33698586e68f125f229199bde6dfdc585340012f63e59"
+    },
+    {
+      "filename": "14.png",
+      "bytes": 62405,
+      "sha256": "13e5aa0c78b60ebee01cd8a5dc9b817dfe64241d1bee7ed2976f9732361dab5f"
+    },
+    {
+      "filename": "15.png",
+      "bytes": 61966,
+      "sha256": "3cf417698fb652b108c37cf946d901262a3f23fb1ba8e37736d4d0f1e982b9e6"
+    },
+    {
+      "filename": "16.png",
+      "bytes": 93742,
+      "sha256": "7ab67fdf840dfbd94718aa38d35bdbb8d6801718b4b3e4c395602dbfc2bd08c4"
+    },
+    {
+      "filename": "17.png",
+      "bytes": 240631,
+      "sha256": "962c7947b4d2f53e6e3c977ed95e467e459e56096b61bc5e5d82b224dea095f8"
+    },
+    {
+      "filename": "18.png",
+      "bytes": 215687,
+      "sha256": "75dc10754ddfc93e407f8deddd6af3163ecc61a50ccb111c0c8d8a2cbd4a7677"
+    },
+    {
+      "filename": "19.png",
+      "bytes": 104664,
+      "sha256": "508f946dc3002110c5ec25896c70716d6273880804f41f8497d8ddb4fbc920f4"
+    },
+    {
+      "filename": "20.png",
+      "bytes": 72156,
+      "sha256": "efe5dd5079410bf1d7b48a75fde0338cb1584a8ca3cf86ec6b9a1c12abbb23e1"
+    },
+    {
+      "filename": "21.png",
+      "bytes": 63481,
+      "sha256": "b83bbd99be1b7a6a94bcaeb211069cb608b194ca6e61c67bbbe2e247eff3963b"
+    },
+    {
+      "filename": "22.png",
+      "bytes": 46974,
+      "sha256": "87b571004137c8403d8277bdd9981929c73b4d2a236900c136d62307ca8dad61"
+    },
+    {
+      "filename": "23.png",
+      "bytes": 171248,
+      "sha256": "6a3f65eff1ba17d5af93c8a32eb5995ddeeac5af66fb0808a223a0a51e20b365"
+    },
+    {
+      "filename": "24.png",
+      "bytes": 33523,
+      "sha256": "d8b07fe9e4f0c89bfdd6ecb1f218e70aa3442a917c9096697cd7071616397d62"
+    }
+  ]
+}

@@ -9,10 +9,12 @@ export let tags: string[] = [];
 export let categories: string[] = [];
 export let sortedPosts: Post[] = [];
 
-const params = new URLSearchParams(window.location.search);
+const params = new URLSearchParams(
+	typeof window === "undefined" ? "" : window.location.search,
+);
 tags = params.has("tag") ? params.getAll("tag") : [];
 categories = params.has("category") ? params.getAll("category") : [];
-const uncategorized = params.get("uncategorized");
+let uncategorized = params.get("uncategorized");
 
 interface Post {
 	slug: string;
@@ -20,7 +22,7 @@ interface Post {
 		title: string;
 		tags: string[];
 		category?: string | null;
-		published: Date;
+		published: Date | string;
 	};
 }
 
@@ -31,7 +33,12 @@ interface Group {
 
 let groups: Group[] = [];
 
-function formatDate(date: Date) {
+function toDate(value: Date | string) {
+	return value instanceof Date ? value : new Date(value);
+}
+
+function formatDate(value: Date | string) {
+	const date = toDate(value);
 	const month = (date.getMonth() + 1).toString().padStart(2, "0");
 	const day = date.getDate().toString().padStart(2, "0");
 	return `${month}-${day}`;
@@ -41,30 +48,30 @@ function formatTag(tagList: string[]) {
 	return tagList.map((t) => `#${t}`).join(" ");
 }
 
-onMount(async () => {
-	let filteredPosts: Post[] = sortedPosts;
+function groupPosts(posts: Post[], tagFilters: string[], categoryFilters: string[], showUncategorized: string | null) {
+	let filteredPosts = posts;
 
-	if (tags.length > 0) {
+	if (tagFilters.length > 0) {
 		filteredPosts = filteredPosts.filter(
 			(post) =>
 				Array.isArray(post.data.tags) &&
-				post.data.tags.some((tag) => tags.includes(tag)),
+				post.data.tags.some((tag) => tagFilters.includes(tag)),
 		);
 	}
 
-	if (categories.length > 0) {
+	if (categoryFilters.length > 0) {
 		filteredPosts = filteredPosts.filter(
-			(post) => post.data.category && categories.includes(post.data.category),
+			(post) => post.data.category && categoryFilters.includes(post.data.category),
 		);
 	}
 
-	if (uncategorized) {
+	if (showUncategorized) {
 		filteredPosts = filteredPosts.filter((post) => !post.data.category);
 	}
 
 	const grouped = filteredPosts.reduce(
 		(acc, post) => {
-			const year = post.data.published.getFullYear();
+			const year = toDate(post.data.published).getFullYear();
 			if (!acc[year]) {
 				acc[year] = [];
 			}
@@ -81,7 +88,27 @@ onMount(async () => {
 
 	groupedPostsArray.sort((a, b) => b.year - a.year);
 
-	groups = groupedPostsArray;
+	return groupedPostsArray;
+}
+
+function readFilters() {
+	if (typeof window === "undefined") return { tags: [], categories: [], uncategorized: null };
+	const params = new URLSearchParams(window.location.search);
+	return {
+		tags: params.has("tag") ? params.getAll("tag") : [],
+		categories: params.has("category") ? params.getAll("category") : [],
+		uncategorized: params.get("uncategorized"),
+	};
+}
+
+groups = groupPosts(sortedPosts, tags, categories, uncategorized);
+
+onMount(() => {
+	const filters = readFilters();
+	tags = filters.tags;
+	categories = filters.categories;
+	uncategorized = filters.uncategorized;
+	groups = groupPosts(sortedPosts, tags, categories, uncategorized);
 });
 </script>
 

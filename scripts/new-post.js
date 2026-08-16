@@ -3,13 +3,20 @@
 import fs from "fs"
 import path from "path"
 
-function getDate() {
-  const today = new Date()
-  const year = today.getFullYear()
-  const month = String(today.getMonth() + 1).padStart(2, "0")
-  const day = String(today.getDate()).padStart(2, "0")
+function getPublishedAt() {
+  const now = new Date()
+  const year = now.getFullYear()
+  const month = String(now.getMonth() + 1).padStart(2, "0")
+  const day = String(now.getDate()).padStart(2, "0")
+  const hour = String(now.getHours()).padStart(2, "0")
+  const minute = String(now.getMinutes()).padStart(2, "0")
+  const second = String(now.getSeconds()).padStart(2, "0")
+  const offsetMinutes = -now.getTimezoneOffset()
+  const offsetSign = offsetMinutes >= 0 ? "+" : "-"
+  const offsetHour = String(Math.floor(Math.abs(offsetMinutes) / 60)).padStart(2, "0")
+  const offsetMinute = String(Math.abs(offsetMinutes) % 60).padStart(2, "0")
 
-  return `${year}-${month}-${day}`
+  return `${year}-${month}-${day}T${hour}:${minute}:${second}${offsetSign}${offsetHour}:${offsetMinute}`
 }
 
 const args = process.argv.slice(2)
@@ -44,7 +51,7 @@ if (!fs.existsSync(dirPath)) {
 
 const content = `---
 title: ${args[0]}
-published: ${getDate()}
+published: ${getPublishedAt()}
 description: ''
 image: ''
 tags: []

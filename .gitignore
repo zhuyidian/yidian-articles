@@ -17,6 +17,12 @@ pnpm-debug.log*
 .env
 .env.production
 
+# local credentials
+config/local.secrets.json
+
+# temporary Feishu import staging files
+.feishu-imports/
+
 # macOS-specific files
 .DS_Store
 
