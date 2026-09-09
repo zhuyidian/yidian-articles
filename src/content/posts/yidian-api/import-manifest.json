@@ -1,0 +1,118 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/Hs1kdSOUNoxu6Lxi3NAcoQzUnRd",
+  "title": "一点API 使用教程(三十二)：各智能体常见支持文件格式和测试",
+  "slug": "yidian-api",
+  "published": "2026-09-09T23:48:34+08:00",
+  "importedAt": "2026-09-09T15:48:45.818Z",
+  "sourceStats": {
+    "blocks": 349,
+    "images": 20,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 20,
+    "markdownImageReferences": 20
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 84229,
+      "sha256": "ba422159c30744c381085020dc2b6c87331c63d6153dd559c233177b024e9235"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 645597,
+      "sha256": "1d4e1231a02839b6f0f30f9ba76413ad94954b30de4b401769465d230fa91b8a"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 954381,
+      "sha256": "337c74b494b631861524bee8dca1fd9fabf10a5812edf22c7f6bfdc30f522bf7"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 375017,
+      "sha256": "cab29057c681d1ce9b1f1e17a7abb65e013b4a1c34055a2050713309bf132db3"
+    },
+    {
+      "filename": "05.png",
+      "bytes": 643471,
+      "sha256": "0247880cf2a3ce1e779303ca89e9dd46873dd6cb42834a2e6604122e1e4cfd0e"
+    },
+    {
+      "filename": "06.png",
+      "bytes": 864724,
+      "sha256": "5bacd17071d3b903510fcc583ec41e34e37be30fb5762e1af4132d7620690d8a"
+    },
+    {
+      "filename": "07.png",
+      "bytes": 551609,
+      "sha256": "8ed50cddcac96bd2004f94473a04660088ee5fd9ca8be9824e522381679ce49c"
+    },
+    {
+      "filename": "08.png",
+      "bytes": 2971281,
+      "sha256": "323387c503d4c39572546f94d26a0bc309a808bcb28c1efd4613b5c2020fda3f"
+    },
+    {
+      "filename": "09.png",
+      "bytes": 288575,
+      "sha256": "df9cc0a5977fee188ea6995bcd9d9e2177229289edb19ad4423b28daf79fec42"
+    },
+    {
+      "filename": "10.png",
+      "bytes": 3479166,
+      "sha256": "2cec42f660de9a1f4dec80b4c319f2c1f98486d09de4946556b041d5195c6834"
+    },
+    {
+      "filename": "11.png",
+      "bytes": 420594,
+      "sha256": "b51705b1b2981fc07eb67578d7d9fb7c82ee5d3aea44402c36d2b59aafd3166d"
+    },
+    {
+      "filename": "12.png",
+      "bytes": 472131,
+      "sha256": "100e34f788dfed0bb8b5eaf5bbddff0ea3c88747f07ca61595adb427fdb5db68"
+    },
+    {
+      "filename": "13.png",
+      "bytes": 471439,
+      "sha256": "5e0ba7006b0914f2d6b5926447b4d36fcf7c5438e4b5259ec996b483ca00e714"
+    },
+    {
+      "filename": "14.png",
+      "bytes": 1033572,
+      "sha256": "862026ac3fedb58fc37fb27e6d2b47a5390fcf76d4d0e5ff524e1e1dbf998953"
+    },
+    {
+      "filename": "15.png",
+      "bytes": 164917,
+      "sha256": "90c6884fb906b62295a49e60833259113de2d3c1790c80e344a893c75f003802"
+    },
+    {
+      "filename": "16.png",
+      "bytes": 278070,
+      "sha256": "304d6ad351212891d33b567d5d7c1f8160bb3c33b5b3a92816f2e133f656d274"
+    },
+    {
+      "filename": "17.png",
+      "bytes": 593949,
+      "sha256": "ada6e64875013f3a78ea236ebfdcbf2f24d5fc34102cfdeb97f4d2cda6d1414e"
+    },
+    {
+      "filename": "18.png",
+      "bytes": 375136,
+      "sha256": "d380ee8697a48dc982c5a313019f7c45146c855b2efa69752dc4388a96eb22fd"
+    },
+    {
+      "filename": "19.png",
+      "bytes": 640182,
+      "sha256": "61691f3ceb46f8f09122dd11645b3d9b8593df638dba9cabcd555134ef2746f6"
+    },
+    {
+      "filename": "20.png",
+      "bytes": 666389,
+      "sha256": "6446f606eb3c35b12baac8f3edb92230407b197886ed8e0a1522c2f19a7c3a90"
+    }
+  ]
+}

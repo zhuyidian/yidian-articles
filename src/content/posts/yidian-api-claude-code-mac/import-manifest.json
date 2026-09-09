@@ -1,0 +1,138 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/ErIKdziFOolP3WxasoDc0rh0n5b",
+  "title": "一点API 使用教程(三十六)：Claude Code Mac版使用教程",
+  "slug": "yidian-api-claude-code-mac",
+  "published": "2026-09-09T23:54:23+08:00",
+  "importedAt": "2026-09-09T15:54:33.942Z",
+  "sourceStats": {
+    "blocks": 134,
+    "images": 24,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 24,
+    "markdownImageReferences": 24
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 76315,
+      "sha256": "cc908ae6fc6005d72895e7002eaf06cb85a252456919ac2f53f0b1f09bffdd6c"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 273392,
+      "sha256": "808e099dfd04e551732005a253241d5256f1d5a4c81d5752ed40c359164d59e3"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 39062,
+      "sha256": "2cb6af2ef94afe6ec5df29fa0c5a8aa9e062747821b93929cd92e40b790c9207"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 151683,
+      "sha256": "f545fbf163d03131ac967272b1de8a861970882fbfa9056175fc4910fca81730"
+    },
+    {
+      "filename": "05.png",
+      "bytes": 10395,
+      "sha256": "de0b55df9868267400368558ea4fedc3697261cb551ccc994be713b8a5a06ea4"
+    },
+    {
+      "filename": "06.png",
+      "bytes": 473368,
+      "sha256": "1c466368af0bb94e829e737f4483690a1f7df0720d36eaa39f0aa2dc1c237114"
+    },
+    {
+      "filename": "07.png",
+      "bytes": 33145,
+      "sha256": "7a09f4e36dcda9b055cff8a2192433257c1a1d870202e0135f1f203431837da8"
+    },
+    {
+      "filename": "08.png",
+      "bytes": 63304,
+      "sha256": "7989c0c761f8ebee56f3318b1f7a70d64c0bf6f1f75bff94be1d90fc7bc4ded0"
+    },
+    {
+      "filename": "09.png",
+      "bytes": 63545,
+      "sha256": "76116f6ed9d7b29bb61a1905ff65680fbc3bb609d596a4dcdaa4da0faa589bd2"
+    },
+    {
+      "filename": "10.png",
+      "bytes": 32417,
+      "sha256": "aa93bff4bedf9257490bc75b301199c647ac96bd2a1cad75948c3a516bc75438"
+    },
+    {
+      "filename": "11.png",
+      "bytes": 58802,
+      "sha256": "b4c2bb8ff6797d8d8a86576c05193f7ce2464d5584819ab6d756df003bb92eb6"
+    },
+    {
+      "filename": "12.png",
+      "bytes": 31271,
+      "sha256": "93d4a9605e823d4fc15661f070978cb1f8a5ec05f96079e45cfc5f47af009e0e"
+    },
+    {
+      "filename": "13.png",
+      "bytes": 15882,
+      "sha256": "dd26941b49b0cad5543ace21357add95533a8f08274e7d8021baf3749fade06e"
+    },
+    {
+      "filename": "14.png",
+      "bytes": 3569,
+      "sha256": "d17dfcf84d8493e0d3fb652cd95aced6b978b16b8c840b2af35fa3466857cac8"
+    },
+    {
+      "filename": "15.png",
+      "bytes": 10711,
+      "sha256": "16a5e6a41409383eec91dd7dbc5fdc2ae4e4b716ff6862c0840dc45f128a134e"
+    },
+    {
+      "filename": "16.png",
+      "bytes": 74021,
+      "sha256": "4e4199e4195244917ac58d9133c15e605f2fa09b11bfba5ef94a4b78aef7615c"
+    },
+    {
+      "filename": "17.png",
+      "bytes": 70337,
+      "sha256": "5975656268c749564fc8aeca41cf9b0ed3530a273e3c8f27cb7b8dc92e0e7c26"
+    },
+    {
+      "filename": "18.png",
+      "bytes": 72963,
+      "sha256": "6ba49a9e0885b3fe7663b74fdd6386f3f1c9556754ad584aaa9e87d7afc3c46d"
+    },
+    {
+      "filename": "19.png",
+      "bytes": 92592,
+      "sha256": "28f0ca883e58801f85d97b8404e1b97f4d0841c27579e0b2118b3070ba5e2f96"
+    },
+    {
+      "filename": "20.png",
+      "bytes": 122872,
+      "sha256": "c3e26bcb24965605d5efe0710924afd7787bb13aad33fa1127967de1b18522d4"
+    },
+    {
+      "filename": "21.png",
+      "bytes": 94534,
+      "sha256": "9276fda742585037a5acc12b54d3962ea7f27291b6eece3b6b3e4634173c0254"
+    },
+    {
+      "filename": "22.png",
+      "bytes": 117520,
+      "sha256": "f238719d6ec70a9c7f34ca8460bc821fdc5b4c66d509613eaf425a453167cdd4"
+    },
+    {
+      "filename": "23.png",
+      "bytes": 71239,
+      "sha256": "090a690871f4461d2f7c85b44749e94a965d1c8452eda79e81ac314f2ce8ab7a"
+    },
+    {
+      "filename": "24.png",
+      "bytes": 473964,
+      "sha256": "75e750fbe305ad4bbb03c75bc117592c837562b7b6e5b12f39c6c6a787c95709"
+    }
+  ]
+}

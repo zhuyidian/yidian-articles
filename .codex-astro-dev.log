@@ -1,0 +1,416 @@
+14:44:53 [types] Generated 2ms
+14:44:54 [content] Syncing content
+14:44:55 [content] Synced content
+
+ astro  v5.13.10 ready in 6831 ms
+
+┃ Local    http://127.0.0.1:4322/
+
+14:44:55 watching for file changes...
+Browserslist: browsers data (caniuse-lite) is 18 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+14:46:01 [200] /archive/ 5661ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+14:46:44 [200] /archive/ 39ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+14:47:12 [200] /archive/ 37ms
+14:47:14 [vite] [32m✨ new dependencies optimized: [33m@swup/astro/serialise, @swup/astro/idle, @swup/astro/client/Swup, @swup/astro/client/SwupA11yPlugin, @swup/astro/client/SwupPreloadPlugin, @swup/astro/client/SwupScrollPlugin, @swup/astro/client/SwupHeadPlugin, @swup/astro/client/SwupScriptsPlugin[32m[39m
+14:47:14 [vite] [32m✨ optimized dependencies changed. reloading[39m
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+14:47:14 [200] /archive/ 113ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+14:47:16 [200] /archive/ 26ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+14:50:55 [200] /archive/ 30ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+14:50:56 [200] /archive/ 28ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+14:51:00 [200] /archive/ 24ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+14:51:00 [200] /archive/ 30ms
+14:51:01 [200] /posts/yidian-api-codex-cli-setup/ 38ms
+14:51:01 [200] /posts/yidian-api-vscode-codex-setup/ 36ms
+14:51:05 [200] /posts/yidian-api-obsidian-copilot-setup/ 34ms
+14:51:06 [200] /posts/yidian-api-pencil-claude-code-cc-switch-setup/ 33ms
+14:51:06 [200] /posts/yidian-api-setup/ 30ms
+14:51:06 [200] /posts/yidian-api-astrbot-setup/ 29ms
+14:51:06 [200] /posts/yidian-api-cc-switch-setup/ 28ms
+14:51:06 [200] /posts/yidian-api-image2/ 29ms
+14:51:06 [200] /posts/yidian-api-open-code-setup/ 25ms
+14:51:16 [200] /posts/video/ 30ms
+14:51:16 [200] /posts/guide/ 44ms
+14:51:18 [200] /_image/ 108ms
+14:51:19 [200] /_image/ 15ms
+15:30:16 [200] /posts/markdown/ 43ms
+15:30:16 [200] /posts/codex-in-feishu/ 69ms
+15:30:24 [200] /posts/welcome/ 39ms
+15:39:47 [watch] src/utils/content-utils.ts
+15:39:47 [watch] src/utils/content-utils.ts
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+15:39:48 [200] /archive/ 524ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+15:39:49 [200] /archive/ 35ms
+15:39:53 [watch] src/content/posts/yidian-api-setup/index.md
+15:39:53 [watch] src/content/posts/yidian-api-setup/index.md
+15:39:53 [glob-loader] Reloaded data from yidian-api-setup/index.md
+15:39:54 [ERROR] [UnknownFilesystemError] 
+  Hint:
+    It can be caused by many things, eg. missing permissions or a file not existing we attempt to read. Check the error cause for more details.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/unknown-filesystem-error/
+  Stack trace:
+    at E:\project\AIProjet\test\articles-site\node_modules\.pnpm\astro@5.13.10_@types+node@24.5.2_jiti@1.21.7_lightningcss@1.29.3_rollup@2.79.2_sass@1.80.4_st_s7hqsa4qywm5m5vu4ywkwg7ioa\node_modules\astro\dist\content\mutable-data-store.js:92:13
+    [...] See full stack trace in the browser, or rerun with --verbose.
+  Caused by:
+  ENOENT: no such file or directory, rename 'E:\project\AIProjet\test\articles-site\.astro\content-assets.mjs.tmp' -> 'E:\project\AIProjet\test\articles-site\.astro\content-assets.mjs'
+    at async Object.rename (node:internal/fs/promises:782:10)
+    [...] See full stack trace in the browser, or rerun with --verbose.
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+15:39:56 [200] /archive/ 1787ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+15:39:56 [200] /archive/ 994ms
+15:39:56 [200] /archive/ 381ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+15:39:57 [200] /archive/ 31ms
+15:39:59 [watch] src/content/posts/yidian-api-pencil-claude-code-cc-switch-setup/index.md
+15:39:59 [watch] src/content/posts/yidian-api-pencil-claude-code-cc-switch-setup/index.md
+15:39:59 [glob-loader] Reloaded data from yidian-api-pencil-claude-code-cc-switch-setup/index.md
+15:40:00 [ERROR] [UnknownFilesystemError] 
+  Hint:
+    It can be caused by many things, eg. missing permissions or a file not existing we attempt to read. Check the error cause for more details.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/unknown-filesystem-error/
+  Stack trace:
+    at E:\project\AIProjet\test\articles-site\node_modules\.pnpm\astro@5.13.10_@types+node@24.5.2_jiti@1.21.7_lightningcss@1.29.3_rollup@2.79.2_sass@1.80.4_st_s7hqsa4qywm5m5vu4ywkwg7ioa\node_modules\astro\dist\content\mutable-data-store.js:92:13
+    [...] See full stack trace in the browser, or rerun with --verbose.
+  Caused by:
+  EPERM: operation not permitted, rename 'E:\project\AIProjet\test\articles-site\.astro\content-assets.mjs.tmp' -> 'E:\project\AIProjet\test\articles-site\.astro\content-assets.mjs'
+    at async Object.rename (node:internal/fs/promises:782:10)
+    [...] See full stack trace in the browser, or rerun with --verbose.
+15:40:00 [ERROR] [UnknownFilesystemError] 
+  Hint:
+    It can be caused by many things, eg. missing permissions or a file not existing we attempt to read. Check the error cause for more details.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/unknown-filesystem-error/
+  Stack trace:
+    at E:\project\AIProjet\test\articles-site\node_modules\.pnpm\astro@5.13.10_@types+node@24.5.2_jiti@1.21.7_lightningcss@1.29.3_rollup@2.79.2_sass@1.80.4_st_s7hqsa4qywm5m5vu4ywkwg7ioa\node_modules\astro\dist\content\mutable-data-store.js:337:13
+    [...] See full stack trace in the browser, or rerun with --verbose.
+  Caused by:
+  EPERM: operation not permitted, rename 'E:\project\AIProjet\test\articles-site\.astro\data-store.json.tmp' -> 'E:\project\AIProjet\test\articles-site\.astro\data-store.json'
+    at async Object.rename (node:internal/fs/promises:782:10)
+    [...] See full stack trace in the browser, or rerun with --verbose.
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+15:40:03 [200] /archive/ 838ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+15:40:03 [200] /archive/ 45ms
+15:40:06 [watch] src/content/posts/yidian-api-obsidian-copilot-setup/index.md
+15:40:06 [watch] src/content/posts/yidian-api-obsidian-copilot-setup/index.md
+15:40:06 [glob-loader] Reloaded data from yidian-api-obsidian-copilot-setup/index.md
+15:40:06 [ERROR] [UnknownFilesystemError] 
+  Hint:
+    It can be caused by many things, eg. missing permissions or a file not existing we attempt to read. Check the error cause for more details.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/unknown-filesystem-error/
+  Stack trace:
+    at E:\project\AIProjet\test\articles-site\node_modules\.pnpm\astro@5.13.10_@types+node@24.5.2_jiti@1.21.7_lightningcss@1.29.3_rollup@2.79.2_sass@1.80.4_st_s7hqsa4qywm5m5vu4ywkwg7ioa\node_modules\astro\dist\content\mutable-data-store.js:92:13
+    [...] See full stack trace in the browser, or rerun with --verbose.
+  Caused by:
+  EPERM: operation not permitted, rename 'E:\project\AIProjet\test\articles-site\.astro\content-assets.mjs.tmp' -> 'E:\project\AIProjet\test\articles-site\.astro\content-assets.mjs'
+    at async Object.rename (node:internal/fs/promises:782:10)
+    [...] See full stack trace in the browser, or rerun with --verbose.
+15:40:06 [ERROR] [UnknownFilesystemError] 
+  Hint:
+    It can be caused by many things, eg. missing permissions or a file not existing we attempt to read. Check the error cause for more details.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/unknown-filesystem-error/
+  Stack trace:
+    at E:\project\AIProjet\test\articles-site\node_modules\.pnpm\astro@5.13.10_@types+node@24.5.2_jiti@1.21.7_lightningcss@1.29.3_rollup@2.79.2_sass@1.80.4_st_s7hqsa4qywm5m5vu4ywkwg7ioa\node_modules\astro\dist\content\mutable-data-store.js:337:13
+    [...] See full stack trace in the browser, or rerun with --verbose.
+  Caused by:
+  EPERM: operation not permitted, rename 'E:\project\AIProjet\test\articles-site\.astro\data-store.json.tmp' -> 'E:\project\AIProjet\test\articles-site\.astro\data-store.json'
+    at async Object.rename (node:internal/fs/promises:782:10)
+    [...] See full stack trace in the browser, or rerun with --verbose.
+The collection "posts" does not exist or is empty. Please check your content config file for errors.
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+The collection "posts" does not exist or is empty. Please check your content config file for errors.
+The collection "posts" does not exist or is empty. Please check your content config file for errors.
+15:40:08 [200] /archive/ 606ms
+The collection "posts" does not exist or is empty. Please check your content config file for errors.
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+The collection "posts" does not exist or is empty. Please check your content config file for errors.
+The collection "posts" does not exist or is empty. Please check your content config file for errors.
+15:40:09 [200] /archive/ 25ms
+15:40:15 [watch] src/content/posts/yidian-api-astrbot-setup/index.md
+15:40:15 [watch] src/content/posts/yidian-api-astrbot-setup/index.md
+15:40:15 [glob-loader] Reloaded data from yidian-api-astrbot-setup/index.md
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+The collection "posts" does not exist or is empty. Please check your content config file for errors.
+The collection "posts" does not exist or is empty. Please check your content config file for errors.
+15:40:17 [200] /archive/ 881ms
+15:40:17 [200] /archive/ 575ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+15:40:18 [200] /archive/ 34ms
+15:40:22 [watch] src/content/posts/yidian-api-cc-switch-setup/index.md
+15:40:22 [watch] src/content/posts/yidian-api-cc-switch-setup/index.md
+15:40:22 [glob-loader] Reloaded data from yidian-api-cc-switch-setup/index.md
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+15:40:25 [200] /archive/ 1030ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+15:40:26 [200] /archive/ 46ms
+15:40:39 [watch] src/content/posts/yidian-api-image2/index.md
+15:40:39 [watch] src/content/posts/yidian-api-image2/index.md
+15:40:39 [glob-loader] Reloaded data from yidian-api-image2/index.md
+15:40:40 [ERROR] [UnknownFilesystemError] 
+  Hint:
+    It can be caused by many things, eg. missing permissions or a file not existing we attempt to read. Check the error cause for more details.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/unknown-filesystem-error/
+  Stack trace:
+    at E:\project\AIProjet\test\articles-site\node_modules\.pnpm\astro@5.13.10_@types+node@24.5.2_jiti@1.21.7_lightningcss@1.29.3_rollup@2.79.2_sass@1.80.4_st_s7hqsa4qywm5m5vu4ywkwg7ioa\node_modules\astro\dist\content\mutable-data-store.js:337:13
+    [...] See full stack trace in the browser, or rerun with --verbose.
+  Caused by:
+  ENOENT: no such file or directory, rename 'E:\project\AIProjet\test\articles-site\.astro\data-store.json.tmp' -> 'E:\project\AIProjet\test\articles-site\.astro\data-store.json'
+    at async Object.rename (node:internal/fs/promises:782:10)
+    [...] See full stack trace in the browser, or rerun with --verbose.
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+15:40:43 [200] /archive/ 1447ms
+15:40:43 [200] /archive/ 1460ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+15:40:44 [200] /archive/ 38ms
+15:40:51 [watch] src/content/posts/yidian-api-open-code-setup/index.md
+15:40:51 [watch] src/content/posts/yidian-api-open-code-setup/index.md
+15:40:51 [glob-loader] Reloaded data from yidian-api-open-code-setup/index.md
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+15:40:54 [200] /archive/ 1942ms
+15:40:54 [200] /archive/ 947ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+15:40:56 [200] /archive/ 46ms
+15:49:09 [200] /posts/welcome/ 39ms
+15:49:09 [200] /posts/markdown/ 32ms
+15:49:09 [200] /posts/yidian-api-codex-setup/ 35ms
+15:49:09 [200] /posts/yidian-api-pencil-claude-code-cc-switch-setup/ 34ms
+15:49:09 [200] / 42ms
+15:49:09 [200] /posts/yidian-api-cc-switch-setup/ 30ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+15:49:12 [200] /archive/ 29ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+15:49:12 [200] /archive/ 29ms
+15:49:23 [200] /posts/yidian-api-cc-switch-setup/ 33ms
+15:49:23 [200] / 37ms
+15:49:24 [200] /posts/yidian-api-image2/ 30ms
+15:51:28 [200] /posts/yidian-api-obsidian-copilot-setup/ 55ms
+15:51:28 [200] /posts/yidian-api-pencil-claude-code-cc-switch-setup/ 48ms
+15:51:28 [200] /posts/yidian-api-setup/ 59ms
+16:19:31 [200] /about/ 32ms
+16:19:31 [200] /posts/yidian-api-astrbot-setup/ 32ms
+16:19:38 [200] /posts/yidian-api-open-code-setup/ 33ms
+16:19:38 [200] /posts/yidian-api-vscode-codex-setup/ 34ms
+16:19:38 [200] /posts/yidian-api-codex-cli-setup/ 31ms
+16:19:38 [200] /posts/yidian-api-codex-setup/ 30ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+16:19:39 [200] /archive/ 29ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+16:19:39 [200] /archive/ 28ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+16:19:39 [200] /archive/ 28ms
+16:19:55 [200] /posts/yidian-api-redeem-key/ 34ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+16:20:06 [200] /archive/ 38ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+16:20:20 [200] /archive/ 30ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+16:20:21 [200] /archive/ 28ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+16:20:27 [200] /archive/ 33ms
+16:41:07 [watch] src/content/posts/yidian-api-image2/index.md
+16:41:07 [watch] src/content/posts/yidian-api-image2/index.md
+16:41:07 [glob-loader] Reloaded data from yidian-api-image2/index.md
+16:41:07 [ERROR] [UnknownFilesystemError] 
+  Hint:
+    It can be caused by many things, eg. missing permissions or a file not existing we attempt to read. Check the error cause for more details.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/unknown-filesystem-error/
+  Stack trace:
+    at E:\project\AIProjet\test\articles-site\node_modules\.pnpm\astro@5.13.10_@types+node@24.5.2_jiti@1.21.7_lightningcss@1.29.3_rollup@2.79.2_sass@1.80.4_st_s7hqsa4qywm5m5vu4ywkwg7ioa\node_modules\astro\dist\content\mutable-data-store.js:337:13
+    [...] See full stack trace in the browser, or rerun with --verbose.
+  Caused by:
+  EPERM: operation not permitted, rename 'E:\project\AIProjet\test\articles-site\.astro\data-store.json.tmp' -> 'E:\project\AIProjet\test\articles-site\.astro\data-store.json'
+    at async Object.rename (node:internal/fs/promises:782:10)
+    [...] See full stack trace in the browser, or rerun with --verbose.
+16:41:07 [ERROR] [UnknownFilesystemError] 
+  Hint:
+    It can be caused by many things, eg. missing permissions or a file not existing we attempt to read. Check the error cause for more details.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/unknown-filesystem-error/
+  Stack trace:
+    at E:\project\AIProjet\test\articles-site\node_modules\.pnpm\astro@5.13.10_@types+node@24.5.2_jiti@1.21.7_lightningcss@1.29.3_rollup@2.79.2_sass@1.80.4_st_s7hqsa4qywm5m5vu4ywkwg7ioa\node_modules\astro\dist\content\mutable-data-store.js:92:13
+    [...] See full stack trace in the browser, or rerun with --verbose.
+  Caused by:
+  EPERM: operation not permitted, rename 'E:\project\AIProjet\test\articles-site\.astro\content-assets.mjs.tmp' -> 'E:\project\AIProjet\test\articles-site\.astro\content-assets.mjs'
+    at async Object.rename (node:internal/fs/promises:782:10)
+    [...] See full stack trace in the browser, or rerun with --verbose.
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+16:41:09 [200] /archive/ 947ms
+16:41:09 [200] /archive/ 947ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+16:41:10 [200] /archive/ 27ms
+16:41:13 [watch] src/content/posts/yidian-api-open-code-setup/index.md
+16:41:13 [watch] src/content/posts/yidian-api-open-code-setup/index.md
+16:41:13 [glob-loader] Reloaded data from yidian-api-open-code-setup/index.md
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+16:41:15 [200] /archive/ 947ms
+16:41:15 [200] /archive/ 613ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+16:41:16 [200] /archive/ 28ms
+16:41:19 [watch] src/content/posts/yidian-api-pencil-claude-code-cc-switch-setup/index.md
+16:41:19 [watch] src/content/posts/yidian-api-pencil-claude-code-cc-switch-setup/index.md
+16:41:19 [glob-loader] Reloaded data from yidian-api-pencil-claude-code-cc-switch-setup/index.md
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+16:41:22 [200] /archive/ 1589ms
+16:41:22 [200] /archive/ 1508ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+16:41:23 [200] /archive/ 40ms
+16:47:41 [200] / 48ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+16:47:42 [200] /archive/ 31ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+16:47:42 [200] /archive/ 28ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+16:47:43 [200] /archive/ 31ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+16:47:43 [200] /archive/ 50ms
+16:47:47 [200] /posts/yidian-api-redeem-key/ 53ms
+16:47:47 [200] /posts/yidian-api-codex-setup/ 42ms
+16:47:47 [200] /posts/yidian-api-codex-cli-setup/ 36ms
+16:47:52 [200] /posts/yidian-api-vscode-codex-setup/ 30ms
+16:48:10 [200] /posts/yidian-api-open-code-setup/ 41ms
+16:48:10 [200] /posts/yidian-api-pencil-claude-code-cc-switch-setup/ 37ms
+16:48:10 [200] /posts/yidian-api-cc-switch-setup/ 34ms
+16:48:10 [200] /posts/yidian-api-image2/ 27ms
+16:48:10 [200] /about/ 26ms
+[svelte] experimental_async_ssr
+Attempted to use asynchronous rendering without `experimental.async` enabled
+https://svelte.dev/e/experimental_async_ssr
+16:48:18 [200] /archive/ 50ms
+16:48:19 [200] /posts/yidian-api-obsidian-copilot-setup/ 47ms
+16:48:19 [200] /posts/yidian-api-setup/ 44ms
+16:48:20 [200] /posts/guide/ 47ms
+16:48:20 [200] /posts/markdown/ 43ms
+16:48:20 [200] /posts/video/ 39ms
+16:48:21 [200] /posts/codex-in-feishu/ 46ms
+16:48:33 [200] /posts/yidian-api-astrbot-setup/ 51ms
+18:14:14 [200] /posts/welcome/ 114ms
+^C

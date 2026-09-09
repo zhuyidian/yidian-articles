@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feishu Article Publisher"
+  short_description: "Publish a Feishu document to this Fuwari site."
+  default_prompt: "Use $feishu-to-fuwari to publish this Feishu document to the article site without rewriting it."
