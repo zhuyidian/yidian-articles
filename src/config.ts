@@ -41,11 +41,6 @@ export const navBarConfig: NavBarConfig = {
 			url: "https://yidianhub.com",
 			external: true,
 		},
-		{
-			name: "API 服务",
-			url: "https://api.yidianhub.com",
-			external: true,
-		},
 	],
 };
 
@@ -58,11 +53,6 @@ export const profileConfig: ProfileConfig = {
 			name: "主站",
 			icon: "fa6-solid:house",
 			url: "https://yidianhub.com",
-		},
-		{
-			name: "API 服务",
-			icon: "fa6-solid:arrow-up-right-from-square",
-			url: "https://api.yidianhub.com",
 		},
 	],
 };
