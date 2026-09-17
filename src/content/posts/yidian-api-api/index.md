@@ -1,10 +1,10 @@
 ---
 title: "一点API 使用教程(二十八)：API 接口调用说明"
-published: 2026-09-07T22:29:00+08:00
+published: 2026-09-16T23:46:51+08:00
 description: "一、主流客户端支持的协议"
 image: "./images/01.png"
-tags: ["API"]
-category: "API 服务"
+tags: []
+category: "文章"
 draft: false
 ---
 
@@ -43,22 +43,6 @@ https://api.yidianhub.com/codex/v1
 **该分组提供免费模型，可供体验使用，可使用的模型有：**
 
 agnes-1.5-flash、agnes-2.0-flash、agnes-video-v2.0，agnes-image-2.0-flash、agnes-image-2.1-flash
-
-glm-4.7-flash、glm-4.5-air:free
-
-glm-5.2，glm-5v-turbo、glm-5-turbo、glm-5、glm-5.1
-
-kimi-k2.7-code-highspeed、kimi-k2.6、kimi-k2.7-code、kimi-k2.5
-
-minimax-m3、minimax-m2.5、minimax-m2.7
-
-deepseek-v4-pro、deepseek-v4-flash、deepseek-v4-pro-202606、deepseek-v4-flash-202605、deepseek-v3.2
-
-qwen3.5-flash、qwen3.5-plus
-
-hunyuan-role-latest、hunyuan-t1-vision-20250916、hunyuan-turbos-vision-video-20250728、hunyuan-lite
-
-hunyuan-standard、hunyuan-standard-256K、hunyuan-pro、hy3、hy3-preview
 
 ## 2、codex分组
 
@@ -120,7 +104,7 @@ claude-fable-5-1、claude-fable-5、claude-opus-5、claude-sonnet-5、claude-hai
 
 **可使用系列模型：**
 
-glm-4.6、glm-4.7、glm-5v-turbo、glm-5-turbo、glm-5、glm-5.1、glm-5.2、glm-5.3、glm‑5.3‑flash
+glm-5.3、deepseek/deepseek-flash、minimax-m3、kimi-k3、hy4-preview
 
 # 四、具体协议说明
 

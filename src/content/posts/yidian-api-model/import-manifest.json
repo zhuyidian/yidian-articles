@@ -1,0 +1,23 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/OluOdTNvWouX4Px9Wj1ckmkynDc",
+  "title": "怎么给四个AI “打工人” “换心脏”",
+  "slug": "yidian-api-model",
+  "published": "2026-09-18T01:57:46+08:00",
+  "importedAt": "2026-09-17T17:57:47.948Z",
+  "sourceStats": {
+    "blocks": 65,
+    "images": 1,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 1,
+    "markdownImageReferences": 1
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 116326,
+      "sha256": "833cbda797703023e04897175f825d0971ab1160557c56a3e459f78479f12ee5"
+    }
+  ]
+}

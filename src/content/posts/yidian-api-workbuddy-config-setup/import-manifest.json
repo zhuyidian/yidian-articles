@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/ZyMHd7XO7osFG2xMjqWciEtln5f",
+  "title": "一点API 使用教程(三十九)：WorkBuddy使用",
+  "slug": "yidian-api-workbuddy-config-setup",
+  "published": "2026-09-18T02:05:54+08:00",
+  "importedAt": "2026-09-17T18:05:59.203Z",
+  "sourceStats": {
+    "blocks": 27,
+    "images": 11,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 11,
+    "markdownImageReferences": 11
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 1895285,
+      "sha256": "9583a64c8dec8ebf039dab07305b2076821f177d3f563c26bae311e3f4c9083d"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 333782,
+      "sha256": "bf04cc8a9b83d63b54ad26d31850410600219ae9b184212f6566541ece90b79b"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 41710,
+      "sha256": "00511cad5d781c31a3f8582726d3e661eaea7b3995820d17130aab3c21319a7c"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 66109,
+      "sha256": "ef91d780151ba5569505524fc6e5c3c0ab7387d9730e67e89de02ff5de9850bd"
+    },
+    {
+      "filename": "05.jpg",
+      "bytes": 59872,
+      "sha256": "5b9a53ece365815e48036854c6ac4adfba21eaf258e9c6c0806e4c381554850d"
+    },
+    {
+      "filename": "06.jpg",
+      "bytes": 62628,
+      "sha256": "421095aea8886b4fa636acd987e707433df963bd14f4c0d7f6a257afbabd21e9"
+    },
+    {
+      "filename": "07.jpg",
+      "bytes": 55574,
+      "sha256": "ab7bbfb7b50ba786c01c035f9092568c0a20e32acf20a19be79265394de8ef7b"
+    },
+    {
+      "filename": "08.jpg",
+      "bytes": 60794,
+      "sha256": "1b9dad580daee50ca884d77cbfa976087b9c9fcba62acb448a2c0aa55ada4f54"
+    },
+    {
+      "filename": "09.jpg",
+      "bytes": 62638,
+      "sha256": "ad4edc8a8d4169353db124d89111ab30d1b462eb088ae4e2a6f987e25ccd471b"
+    },
+    {
+      "filename": "10.jpg",
+      "bytes": 60903,
+      "sha256": "9cecda37c0c1b4ee7aadcf798e4d37d7e189a39f1bdd2ca1fb5dc408a39bad09"
+    },
+    {
+      "filename": "11.jpg",
+      "bytes": 54381,
+      "sha256": "600ca38d2bfde867306fe377fdd4a106d75e62cd1a7c5d79d80849ff0a966ada"
+    }
+  ]
+}

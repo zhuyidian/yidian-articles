@@ -1,0 +1,73 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/HHuTdgbuCoPMCCxbkmic152cnWc",
+  "title": "一点API 使用教程(三十八)：TRAE Work使用",
+  "slug": "yidian-api-trae-work",
+  "published": "2026-09-18T02:02:43+08:00",
+  "importedAt": "2026-09-17T18:02:49.270Z",
+  "sourceStats": {
+    "blocks": 27,
+    "images": 11,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 11,
+    "markdownImageReferences": 11
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 245586,
+      "sha256": "1919273f449b9f01ba1dcb600d8d43f24f3c544a93a2cae5f4fc56b8325cdbb3"
+    },
+    {
+      "filename": "02.jpg",
+      "bytes": 68222,
+      "sha256": "0fcc23f8fb4dd2a064be12256aa18103df04bb7ae244f77ceaf176b86a495dae"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 34190,
+      "sha256": "7e5f7012a5c4eeb76cf0c928189a3a7f886758ae0696f291e98d65d65d76b1e1"
+    },
+    {
+      "filename": "04.png",
+      "bytes": 65176,
+      "sha256": "3fc2a18bac99ea61378112a13efc94ba1129bce87cda5ddf61de95e8bd5e351c"
+    },
+    {
+      "filename": "05.jpg",
+      "bytes": 120819,
+      "sha256": "8be1419c6b1e5a7165fd99eb3710f5ede7ce3681f60817cd970df1332bdef6c0"
+    },
+    {
+      "filename": "06.jpg",
+      "bytes": 126500,
+      "sha256": "a496e04d56a382b217e140c2b896389397bab23bf59ebeba7e41178d773cd4e3"
+    },
+    {
+      "filename": "07.jpg",
+      "bytes": 129813,
+      "sha256": "1e7d4c4b9392de17f30679cf1e54d284e761f3007d5d6e8d89b9917a5603825f"
+    },
+    {
+      "filename": "08.jpg",
+      "bytes": 130678,
+      "sha256": "6fea15f5f3aed0519005815e20946c5ab85efea613c2276d8d62a4bcfd2820ea"
+    },
+    {
+      "filename": "09.jpg",
+      "bytes": 129504,
+      "sha256": "e1c325d15f9bd8bcf01f85b450b8a3a06ca116b1e14015163e9471c5e4d84189"
+    },
+    {
+      "filename": "10.jpg",
+      "bytes": 122277,
+      "sha256": "773e60e28e3392bdb6cbe0ca765de32b390bf134eff16f39fad0f7c811972f2e"
+    },
+    {
+      "filename": "11.jpg",
+      "bytes": 76465,
+      "sha256": "5321c4a332f3404554af370062d4c2a91ac143f19e7c7a533febd91bcf5c1fa4"
+    }
+  ]
+}
