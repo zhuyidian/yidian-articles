@@ -1,10 +1,10 @@
 ---
 title: "一点API 使用教程(二十八)：API 接口调用说明"
-published: 2026-09-16T23:46:51+08:00
+published: 2026-09-29T00:23:27+08:00
 description: "一、主流客户端支持的协议"
 image: "./images/01.png"
-tags: []
-category: "文章"
+tags: ["API"]
+category: "API 服务"
 draft: false
 ---
 
@@ -44,23 +44,23 @@ https://api.yidianhub.com/codex/v1
 
 agnes-1.5-flash、agnes-2.0-flash、agnes-video-v2.0，agnes-image-2.0-flash、agnes-image-2.1-flash
 
-## 2、codex分组
+## 2、codex-student分组 (专为学生提供的分组)
 
 **可使用系列模型：**
 
-gpt-5.5、gpt-5.4、gpt-image-2、gpt-5.5-openai-compact、gpt-5.6-terra、gpt-5.6-sol、gpt-6-astra
+gpt-5.5、gpt-image-2、gpt-5.6-terra、gpt-5.6-sol、gpt-6-astra、gpt-6-luna、gpt-6-sol
 
 ## 3、codex-pro分组
 
 **可使用系列模型：**
 
-gpt-5.5、gpt-5.4、gpt-image-2、gpt-image-2-all、gpt-5.5-openai-compact、gpt-5.6-terra、gpt-5.6-sol、gpt-6-astra
+gpt-5.4、gpt-5.5、gpt-image-2、gpt-image-2-all、gpt-5.6-terra、gpt-5.6-sol、gpt-6-astra、gpt-6-luna、gpt-6-sol
 
-## 4、codex-vip分组
+## ~~4、codex-vip分组 ~~
 
-**可使用系列模型：**
+~~**可使用系列模型：**~~
 
-gpt-6-astra
+~~gpt-6-astra~~
 
 ## 5、claude-code分组
 
