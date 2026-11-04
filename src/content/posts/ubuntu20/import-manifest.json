@@ -1,0 +1,33 @@
+{
+  "sourceUrl": "https://my.feishu.cn/docx/YbbCdYpy0ofbfrxSeHVc26FtnPe",
+  "title": "Ubuntu20 搭建梯子教程",
+  "slug": "ubuntu20",
+  "published": "2026-11-04T17:59:29+08:00",
+  "importedAt": "2026-11-04T09:59:32.149Z",
+  "sourceStats": {
+    "blocks": 27,
+    "images": 3,
+    "unsupportedBlocks": []
+  },
+  "validation": {
+    "downloadedImages": 3,
+    "markdownImageReferences": 3
+  },
+  "images": [
+    {
+      "filename": "01.png",
+      "bytes": 103620,
+      "sha256": "cd2b03379d3440372ff4742ea01a1dd3069998acd7d170e5d9aded1db0b74faa"
+    },
+    {
+      "filename": "02.png",
+      "bytes": 66540,
+      "sha256": "e5c64d84c15e5b99c06a2ad2680ce774bd9a665e21fcc1fe108d629cd7a295c6"
+    },
+    {
+      "filename": "03.png",
+      "bytes": 81603,
+      "sha256": "8e80f46b577521d8bd7bfb4cde110b80dd4c460dc5a437a7b5268343a81dbe2d"
+    }
+  ]
+}
