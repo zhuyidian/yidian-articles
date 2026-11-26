@@ -9,7 +9,7 @@ const PROJECT_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), 
 const POSTS_DIR = path.join(PROJECT_ROOT, "src", "content", "posts");
 const STAGING_ROOT = path.join(PROJECT_ROOT, ".feishu-imports");
 const DEFAULT_CONFIG_PATH = path.join(PROJECT_ROOT, "config", "local.secrets.json");
-const DEFAULT_MAIN_SITE_FILE = path.resolve(PROJECT_ROOT, "..", "main-site", "src", "utils", "articles.ts");
+const DEFAULT_MAIN_SITE_FILE = path.resolve(PROJECT_ROOT, "..", "yidian-host", "src", "utils", "articles.ts");
 const DEFAULT_ARTICLE_BASE_URL = "https://articles.yidianhub.com";
 
 function printUsage() {
@@ -27,7 +27,7 @@ Options:
   --description <text>         Override the generated article summary.
   --config <path>              Local config. Defaults to config/local.secrets.json.
   --article-base-url <url>     Defaults to https://articles.yidianhub.com.
-  --main-site-file <path>      Path to main-site/src/utils/articles.ts.
+  --main-site-file <path>      Path to yidian-host/src/utils/articles.ts.
   --no-sync-main-site          Do not update the main-site fallback article list.
   --overwrite                  Replace an existing post with the same slug.
   --dry-run                    Download and validate without creating a post.
